@@ -166,14 +166,14 @@ Tổ chức tình báo **Huyền Kiếm** do Hoàng đế Chu Thế Tông (Sài 
 ### Hồi 5: Những Ngày Ở Thần Tiên Độ & Huyết Tẩy Bi Tráng (In-game Quests)
 
 ```
-Tuổi 16 tại Thần Tiên Độ ──► Bị cướp Trấn Hoàng Ngọc ──► Đao Ca & Mật thất dưới giếng
-                                                                  │
-                ┌─────────────────────────────────────────────────┴─────────────────────────────────┐
-                ▼                                                                                   ▼
-Tập kích đêm của Tú Kim Lâu                                                       Khúc Thiên Hùng Ca & Mộng Cảnh Hoa Đăng
-- Tầm Tâm (Thiên Dạ Song Hồn)                                                     - Đao Ca nốc cạn Ly Nhân Lệ kích nổ
-- Hồng Tuyến vẫy cờ hy sinh                                                       - Đồng quy vu tận mở đường sống
-                                                                                  - Mộng cảnh tiễn biệt dưới gốc cây
+Tuổi 16 tại Thần Tiên Độ ──► Bị cướp Trấn Hoàng Ngọc ──► Đao Ca & Gã Múa Ngựa Đa Lan
+                                                                   │
+                 ┌─────────────────────────────────────────────────┴─────────────────────────────────┐
+                 ▼                                                                                   ▼
+Kế hoạch "bỏ nhà đi bụi" & Đêm Khai Đàn định mệnh                   Khúc Thiên Hùng Ca & Mộng Cảnh Hoa Đăng
+- Dì Hàng đổ rượu, dân làng chuẩn bị di tản                         - Đao Ca nốc cạn Ly Nhân Lệ kích nổ
+- Lời ước hẹn cùng Đao Ca tới Khai Phong                            - Đồng quy vu tận mở đường sống
+- Tú Kim Lâu huyết tẩy, thảm kịch chú Dao - Hồng Tuyến              - Mộng cảnh tiễn biệt dưới gốc cây
 ```
 
 #### 1. Cuộc Sống Thơ Ấu & Vụ Cướp Trấn Hoàng Ngọc
@@ -188,20 +188,40 @@ Tập kích đêm của Tú Kim Lâu                                            
 - **Băng cướp Thập Nhị Sát:** Biên giới Yên Vân từng có băng cướp 12 tên vô sỉ chuyên cướp bóc và làm nhục phụ nữ. Bạch Đại Hiệp (Yên Bắc Minh) trừ khử chúng nhưng bỏ mạng vì Đao Ca (thành viên thứ 13) tương trợ. Sau đó hai bên trở mặt, Đao Ca một đao chém chết 11 tên, duy chỉ tha mạng cho tên cầm đầu vì ân tình truyền dạy bí kíp Thiên Trì Huyền Thuyết.
 - **Mối tri kỷ với Chu Thanh Tuyền:** Chu Thanh Tuyền từng truy sát Đao Ca hàng chục lần không thành. Đến khi thấy Đao Ca huyết chiến Thập Nhị Sát, Chu Thanh Tuyền không thừa cơ ám hại mà ra tay tương trợ $\rightarrow$ Cả hai cảm phục nhân cách đối phương mà kết thành sinh tử tri kỷ. Trong trận huyết chiến Hoắc Thủy Thành, phe Trung Nguyên thảm bại, Chu Thanh Tuyền trọng thương được Đao Ca cõng chạy trốn nhưng đã hy sinh rơi xuống nước mất xác. Đao Ca đến Thần Tiên Độ vừa để tìm dì Hàng lấy kỷ vật, vừa để báo tin dữ cho nàng.
 
-#### 3. Đụng Độ Tại Hầm Rượu & Bí Mật Giếng Y Quán
-- Xuống hầm ủ rượu, Thiếu Đông Gia đụng độ Đao Ca. Sau màn giao kiếm bất phân thắng bại, Đao Ca nhận ra chiêu kiếm của Giang Yến nên dừng tay tra hỏi, sau đó trói Thiếu Đông Gia giả vờ bám đuôi để tìm dì Hàng.
-- Thiếu Đông Gia nhảy xuống giếng y quán **Thiên Bất Thụ**, khám phá mật thất chứa các nghĩa sĩ Huyền Kiếm dịch dung thay đổi diện mạo vì đại cuộc, rơi vào ảo mộng thấy bóng hình dì Hàng.
-- Cả hai hợp sức theo dõi tên lính giả chết đến nhà kho cũ, cứu thoát Hồng Tuyến và anh Quảng Râu. Thầy bùa cho con ngựa trắng uống tà dược Mộng Khôi khiến nó phát điên; dì Hàng xuất hiện phóng dao hạ sát con ngựa (nó phun ra khối đen tà khí). Đao Ca báo tin Chu Thanh Tuyền tử trận tại Hoắc Thủy Thành khiến dì Hàng đau đớn đổ sạch vò rượu Ly Nhân Lệ chuẩn bị rời làng.
+#### 3. Bí Mật Giếng Y Quán, Gã Múa Ngựa Đa Lan & Đao Ca Gặp Dì Hàng
+- **Đụng độ Đao Ca & Mưu mẹo bám đuôi:** Xuống hầm ủ rượu, Thiếu Đông Gia đụng độ Đao Ca. Sau màn giao kiếm bất phân thắng bại, Đao Ca nhận ra chiêu kiếm của Giang Yến nên dừng tay tra hỏi. Thấy gã đao khách cục súc trói mình, Thiếu Đông Gia vờ nghe lời rồi nhanh tay cắt dây trói chạy thục mạng về làng. Đao Ca thực chất cố tình để nhân vật trốn thoát nhằm âm thầm bám đuôi tìm tung tích dì Hàng.
+- **Mật thất Huyền Kiếm dưới giếng Thiên Bất Thụ:** Trở về y quán tìm dì Hàng, Thiếu Đông Gia nghe phong thanh những lời đồn ma quái về đại phu Thiên Bất Thụ (sư phụ dì Hàng). Lần mò nhảy xuống đáy giếng sâu trong y quán, nhân vật phát hiện một mật thất ngầm chứa đầy những người quấn băng kín mít như thây ma. Đọc cuốn bí tịch võ học cổ, Thiếu Đông Gia ngất đi, rơi vào ảo mộng thế giới đảo ngược nhuộm màu máu và thấy bóng dáng dì Hàng đang uống rượu. Khi tỉnh lại, nhân vật hiểu ra chân tướng: Đây là căn cứ bí mật của các nghĩa sĩ Huyền Kiếm chấp nhận hy sinh dung mạo, dùng thuật dịch dung ẩn mình vì đại cuộc thu hồi 16 châu Yên Vân; và dì Hàng chính là người nắm giữ cuốn **Danh Sách Mật Thám** tối mật mà thiên hạ thèm khát.
+- **Tập kích nhà dì Hàng & Theo dấu nhà kho cũ:** Đến nhà dì Hàng, Thiếu Đông Gia và Đao Ca bất ngờ bị toán sát thủ đeo mặt nạ phục kích bắn tên xối xả. Cả hai phá mái nhà xông lên, phối hợp tiêu diệt toán địch rồi cùng nhau nấp rình theo dấu một tên lính giả chết tẩu thoát đến một nhà kho cũ hoang phế.
+- **Gã múa ngựa & Bạch mã Đa Lan:**
+  - Vẫn còn "cay cú" vì bị Đao Ca bịp hai lần, Thiếu Đông Gia ném bao gạo làm lộ vị trí của Đao Ca khiến hắn phải quay lại so đao với đám lính canh. Thiếu Đông Gia lẻn vào thám thính thì phát hiện cô bé **Hồng Tuyến** và **anh Quảng Râu** đã bị bắt cóc trói chặt tại đây.
+  - Cởi trói cho hai người xong, Thiếu Đông Gia sang gian phòng kế bên thì bắt gặp một gã thầy bùa/múa ngựa đang quỳ lạy van xin bức tượng kỳ quái. Hắn hoảng sợ bỏ chạy ra ngoài gào thét gọi con chiến mã trắng bờm lớn tên là **Đa Lan**.
+  - Thiếu Đông Gia chém ngã con ngựa, gã thầy bùa đau đớn nhét vào mồm nó một loại độc dược Mộng Khôi đen ngòm khiến con ngựa sống lại, phát điên lồng lộn định giẫm nát nhân vật. Đúng lúc ngàn cân treo sợi tóc, **dì Hàng** phi thân tới, phóng phi đao cắm thẳng đầu con ngựa hạ sát tại chỗ (con ngựa nôn ra một bọc tà khí đen thùi lùi).
+- **Cuộc hạnh ngộ cay đắng & Tin dữ Chu Thanh Tuyền:**
+  - Nhìn thấy dì Hàng và Đao Ca quen biết nhau, Thiếu Đông Gia mới thở phào. Đao Ca chuyển lời và tín vật của người họ Chu (Chu Thanh Tuyền) cử hắn tới Thần Tiên Độ tìm chú Giang và dì Hàng, nhưng nghẹn ngào thông báo tin dữ: *Chu Thanh Tuyền đã tử chiến tại Hoắc Thủy Thành, thi thể chìm sâu dưới đáy sông mất xác.*
+  - Dì Hàng sụp đổ hoàn toàn. Người họ Chu chính là ý chung nhân mà dì đã khắc khoải chờ đợi suốt 16 năm ròng rã. Dì Hàng lặng lẽ ra bến sông, tự tay đổ sạch những vò rượu Ly Nhân Lệ ủ suốt 16 năm xuống dòng nước chảy xiết vì *"người đi không về nữa, giữ rượu lại làm chi"*.
 
-#### 4. Đêm Huyết Tẩy & Khúc Thiên Hùng Ca
-- Nữ chỉ huy **Tầm Tâm (Thiên Dạ Song Hồn)** của Tú Kim Lâu dẫn quân bao vây Thần Tiên Độ lùng bắt danh sách mật thám. Ả tinh thông thuật dịch dung thành người thân nạn nhân và tạo ảo cảnh chết chóc. **Chú Dao** (cha Hồng Tuyến) bị sát hại đầu tiên tại bến thuyền.
-- **Hồng Tuyến** đổi chỗ với một đứa trẻ khác, trốn khỏi hầm trú ẩn trèo lên đỉnh đồi cao vẫy cờ đỏ chỉ lối thoát hiểm cho dân làng và trúng tên độc của Tầm Tâm hy sinh.
+#### 4. Kế Hoạch "Bỏ Nhà Đi Bụi", Đêm Tiệc Khai Đàn & Giấc Mơ Khai Phong Bị Dập Tắt
+- **Dì Hàng quyết định di tản dân làng:** Nhận thấy Tú Kim Lâu đã đánh hơi đến Thần Tiên Độ và nơi đây không còn an toàn nữa, dì Hàng nhờ **chú Dao** (cha Hồng Tuyến) đi thuyết phục toàn bộ người trong tửu lầu và dân làng thu dọn đồ đạc chuẩn bị rời đi. Dì dự liệu: *Sau đêm tiệc Khai Đàn ngày mai, tất cả dân làng sẽ cùng dì lập tức rời đi di tản sang nơi khác trốn tránh tai ương.*
+- **Ý định "bỏ nhà đi bụi" của Thiếu Đông Gia:**
+  - Bản tính vốn phóng khoáng, khao khát tự do và mang mộng ước vẫy vùng giang hồ, Thiếu Đông Gia không cam lòng sống cảnh chạy trốn lưu vong theo sự sắp đặt của dì Hàng. Nhân vật quyết định tự lên kế hoạch "bỏ nhà đi bụi" để dấn thân vào chốn giang hồ rộng lớn.
+  - Được cô bé Hồng Tuyến nằng nặc đòi dẫn đi gặp Đao Ca, Thiếu Đông Gia dắt em ra bờ sông gặp lại gã đao khách. Nhân vật thẳng thắn nhận lỗi vì những trò nghịch ngợm trước đó, đồng thời thổ lộ nguyện vọng muốn theo Đao Ca lên Biện Kinh (thành Khai Phong) lập nghiệp và hành tẩu giang hồ. Nhìn thấy chí khí và sự quyết tâm của thiếu niên, Đao Ca gật đầu ưng thuận, hứa sẽ đưa Thiếu Đông Gia cùng tới Khai Phong.
+- **Bức thư chia tay & Chiếc áo đỏ của Hồng Tuyến:**
+  - Trở về phòng, Thiếu Đông Gia nén lòng viết một bức thư từ biệt để lại cho dì Hàng, nói lời chia tay với từng người quen trong làng.
+  - Thiếu Đông Gia gặp lại cô bé Hồng Tuyến, dặn dò em và tặng cô bé chiếc áo mới màu đỏ thắm rực rỡ (chiếc áo định mệnh mà Hồng Tuyến mặc sau đó). Cả làng rộn ràng chuẩn bị cho đêm tiệc Khai Đàn – một đêm tiệc chia tay chan chứa tiếng cười và tình làng nghĩa xóm, với dự tính: sáng hôm sau dân làng sẽ theo dì Hàng di tản, còn Thiếu Đông Gia sẽ cùng Đao Ca thúc ngựa lên đường tới Khai Phong.
+- **Đêm định mệnh mất tất cả:**
+  - Rượu Khai Đàn thơm ngát chưa kịp cạn, tiếng cười tiễn biệt chưa dứt thì thảm kịch giáng xuống. Nữ chỉ huy **Tầm Tâm (Thiên Dạ Song Hồn)** của Tú Kim Lâu chỉ huy đoàn thuyền hắc ám lặng lẽ cập bến Thần Tiên Độ truy lùng Danh Sách Mật Thám.
+  - Người đầu tiên ngã xuống trước lưỡi dao chí mạng của giặc chính là **chú Dao** ngay tại bến sông. Lửa hung tàn bùng lên thiêu rụi một nửa ngôi làng, biến tửu quán thành biển lửa, người chết la liệt.
+  - Giấc mơ "bỏ nhà đi bụi", lời ước hẹn cùng Đao Ca ngao du thiên hạ và tương lai tươi sáng của thiếu niên bỗng chốc tan thành mây khói trong máu và nước mắt. Nàng/chàng mất đi gia đình, mất đi người thân, mất đi tuổi thơ bình yên chỉ trong một đêm định mệnh.
+
+#### 5. Đêm Huyết Tẩy & Khúc Thiên Hùng Ca
+- Nữ chỉ huy **Tầm Tâm (Thiên Dạ Song Hồn)** của Tú Kim Lâu bao vây Thần Tiên Độ lùng bắt danh sách mật thám. Ả tinh thông thuật dịch dung thành người thân nạn nhân và tạo ảo cảnh chết chóc.
+- **Hồng Tuyến** đổi chỗ với một đứa trẻ khác, trốn khỏi hầm trú ẩn trèo lên đỉnh đồi cao vẫy lá cờ đỏ chỉ lối thoát hiểm cho dân làng và trúng mũi tên độc của Tầm Tâm hy sinh.
 - Thiếu Đông Gia cùng Đao Ca đại chiến với hai linh hồn của Tầm Tâm (phân thân tóc trắng và phân thân mặt dì Hàng) dưới hầm rượu. Trong thế cùng lực kiệt giữa trùng vây, Đao Ca nốc cạn vò Ly Nhân Lệ cuối cùng, dùng đèn lồng kích nổ toàn bộ hầm rượu để đồng quy vu tận cùng bè lũ Tú Kim Lâu, mở đường sống duy nhất cho Thiếu Đông Gia.
 
-#### 5. Khúc Vĩ Thanh: Mộng Cảnh Hoa Đăng Dưới Gốc Cây Thần Tiên Độ
+#### 6. Khúc Vĩ Thanh: Mộng Cảnh Hoa Đăng Dưới Gốc Cây Thần Tiên Độ
 - Sau trận đại chiến, Thiếu Đông Gia quay lại Thần Tiên Độ nay chỉ còn là tro tàn hoang phế. Đến dưới gốc cây cổ thụ, nhân vật tương tác với thanh đại đao của Đao Ca cắm sâu vào lòng đất.
 - Năng lực Hòa Âm kích hoạt, đưa Thiếu Đông Gia bước vào một mộng cảnh tuyệt mỹ: Một cánh đồng hoa bạt ngàn bình yên, nơi Đao Ca, cô bé Hồng Tuyến, chú Dao và những người dân đã khuất tụ họp đông đủ. Cả nhóm cùng nhau uống tiệc rượu Ly Nhân Lệ viên mãn, thả đèn hoa đăng và chiêm ngưỡng màn bắn pháo hoa từ kim loại nóng chảy rực rỡ trời đêm.
-- Đao Ca mỉm cười dặn dò Thiếu Đông Gia: *"Hãy để lại đau buồn phía sau, bước tiếp trên con đường mà ngươi muốn."* 
+- Đao Ca mỉm cười dặn dò Thiếu Đông Gia: *"Hãy để lại đau buồn phía sau, bước tiếp trên con đường mà ngươi muốn."* (Bỏ dở lời hứa cùng Thiếu Đông Gia phiêu bạt Khai Phong, Đao Ca vĩnh viễn nằm lại mảnh đất này).
 - Tỉnh giấc giữa thực tại, Thiếu Đông Gia nhặt lấy thanh đao của Đao Ca và chiếc vòng tay của Hồng Tuyến, chính thức cất bước độc hành tiến về thành Khai Phong.
 
 ---
