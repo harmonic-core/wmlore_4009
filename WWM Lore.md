@@ -622,23 +622,66 @@ Thiếu Đông Gia rơi vào một trạng thái ngộ đạo kinh thiên độn
 
 ---
 
-### 3.9. Ván Cờ Lật Ngửa: Sự hy sinh thế kỷ của Vương Thanh và Đường Ai Đế Lý Tộ
+### 3.9. Bạch Sở Ngọc – Nửa Mảnh Kim Đào & Cuộc Hội Ngộ Giữa Những Người Hòa Âm
 
-#### 3.9.1. Năm 907: Chu Ôn soán Đường và mưu đồ của tổ chức Thiên Dạ
+#### 3.9.1. Bí mật hai đứa trẻ tại Cầu Trung Độ và hai nửa Kim Đào
+Cùng với sự thức tỉnh từ nguồn năng lượng Kim Đào, một bức màn bí mật kinh thiên động địa về quá khứ 16 năm trước tại Cầu Trung Độ đã được vén mở hoàn toàn:
+Đêm mưa bão năm xưa, không chỉ có một đứa trẻ sơ sinh được giải cứu! Trên chiến trường đẫm máu Cầu Trung Độ hôm đó, thực chất có **hai đứa trẻ sơ sinh** bị bỏ lại giữa lằn ranh sinh tử:
+- Đứa trẻ thứ nhất: Được kiếm khách Giang Yến bồng chạy trốn và nuôi dưỡng suốt 13 năm tại căn nhà tranh đất Thanh Hà – chính là **Thiếu Đông Gia**.
+- Đứa trẻ thứ hai: Được **Lý Tộ** (Đường Ai Đế Lý Tộ / vị chân mệnh thiên tử tiền triều ẩn danh) nhặt mang đi và đặt tên là **Bạch Sở Ngọc**.
+
+Không chỉ vậy, viên bảo vật **Kim Đào** (hay Trấn Quan Ngọc) thực chất ngay từ đầu đã được tách ra làm **hai nửa hoàn chỉnh**:
+- Một nửa được trao cho Thiếu Đông Gia (chính là miếng Trấn Quan Ngọc đeo trên cổ mà đầu game bị kẻ bịt mặt cướp đi);
+- Nửa còn lại thuộc quyền sở hữu của Bạch Sở Ngọc.
+
+#### 3.9.2. Thân phận đặc biệt: Những "Người Hòa Âm" (Harmonizer)
+Cả Thiếu Đông Gia và Bạch Sở Ngọc đều là những cá thể dị biệt mang trong mình thiên phú bẩm sinh tối thượng: **Người Hòa Âm** (*Harmonizer* – được ghi chép trong mật thư của tiền nhân Giang Vô Lãng).
+- Người Hòa Âm sở hữu năng lực mượn sức mạnh của gió để lắng nghe vạn vật nhân gian, nhìn thấu vận khí thiện ác, thấu thị xuyên qua vật thể, thâm nhập vào mộng cảnh và đối thoại trực tiếp với ký ức, linh hồn của những người đã khuất. Đây chính là lời giải thích trọn vẹn cho toàn bộ những cơ chế kỳ lạ của Thiếu Đông Gia từ đầu cuộc hành trình: nghe gió định vị, thấu thị manh mối, bước vào bức tranh của gã họa sĩ mù và giải mã ký ức những vong hồn khắp đất Hà Tây.
+- *Chi tiết thú vị (Easter Egg)*: Trong thế giới game, Bạch Sở Ngọc chính là thiếu nữ gảy đàn tỳ bà xuất hiện mỗi khi người chơi thực hiện tính năng **Gacha** – tượng trưng cho khoảnh khắc người chơi đang dùng tiếng đàn để "hòa âm" kết nối với nửa viên Kim Đào còn lại.
+
+#### 3.9.3. Hai số phận đối nghịch và bi kịch tuổi thơ cô độc của Bạch Sở Ngọc
+Dù cùng xuất phát điểm từ Cầu Trung Độ và cùng mang thiên phú Người Hòa Âm, nhưng số phận đã đẩy hai đứa trẻ về hai ngã rẽ hoàn toàn trái ngược:
+- Trong khi Thiếu Đông Gia may mắn được lớn lên trong tình thương ấm áp, sự chở che của Chú Giang và Dì Hàn tại Thần Tiên Độ, có những người bạn mộc mạc như Hồng Tuyến, Lục Dã, Đao Ca;
+- Thì **Bạch Sở Ngọc** lại phải trải qua một tuổi thơ cô độc đến tột cùng dưới sự nuôi dưỡng hà khắc, lạnh lùng của Lý Tộ. Lý Tộ nhận cô làm đồ đệ vì phát hiện thiên phú lạ thường và xem cô như kiếp sau của Liễu Thanh Y (Lưu Thanh Di). Tuy nhiên, vì muốn cô có một cuộc đời an yên, Lý Tộ cấm đoán cô tiếp xúc với thế sự, giấu tiệt mọi chân tướng về Tú Kim Lâu và bí mật của Kim Đào. Suốt thời thơ ấu, Bạch Sở Ngọc không có lấy một người bạn bằng xương bằng thịt. Những người bạn duy nhất của cô chỉ là hai món đồ chơi bằng bông (*Lạc Ca* và *cáo Mi Mi*), cùng những linh hồn/con rối ngồi đánh mạt chược trong mộng cảnh.
+
+#### 3.9.4. Chuỗi Mộng Hà Tây: Ảo cảnh Thần Tiên Độ và trận chiến giữa hai Người Hòa Âm
+Lớn lên trong sự thiếu thốn tình cảm và bị tổn thương tâm lý sâu sắc, Bạch Sở Ngọc ôm một niềm tin ngây thơ rằng: Kim Đào mang trong mình sức mạnh thần thánh có thể **tái thiết lại kinh thành Trường An** tráng lệ thuở xưa.
+- Khi gặp vong hồn của gã họa sĩ mang theo Kim Đào, vì những vết thương lòng khép kín, Bạch Sở Ngọc không thể thấu cảm trọn vẹn ý nghĩa bức tranh như Thiếu Đông Gia. Hiểu rằng Thiếu Đông Gia có khả năng giải mã bức tranh, cô đã chủ động tìm đến cậu.
+- Tận dụng năng lực của Người Hòa Âm, Bạch Sở Ngọc đã thao túng mộng cảnh, tạo ra những **ảo ảnh thực tại cực kỳ tinh vi**:
+  + Cô tạo ra một ảo cảnh nơi bến Thần Tiên Độ chưa từng bị hỏa hoạn thiêu rụi, nơi Dì Hàn vẫn còn sống sờ sờ đang bưng rượu Ly Nhân Lệ, nhằm dẫn dụ Thiếu Đông Gia tiết lộ bí mật Kim Đào;
+  + Kế tiếp, cô lại dựng nên một thực tại giả định nơi 16 Châu Yến Vân đã được toàn thắng thu hồi, Giang Yến chuẩn bị đăng cơ làm minh chủ võ lâm thay cho tướng quân Vương Thanh an hưởng tuổi già về quê trồng rau nuôi cá...
+- Nhận ra tất cả chỉ là ảo giác đau thương của ký ức, Thiếu Đông Gia từ chối chìm đắm vào mộng mị. Trong cơn phẫn uất và uất ức vì bị chối từ, Bạch Sở Ngọc đã rút thanh Đồ Long Đao khổng lồ lao vào chém tới tấp, rồi biến đao thành Ỷ Thiên Kiếm thi triển tuyệt kỹ quay ngược thời gian trong mộng cảnh để áp đảo Thiếu Đông Gia.
+- Thế nhưng, khi hai Người Hòa Âm giao chiến đến đỉnh điểm, sự liên kết tâm thức đã đưa Thiếu Đông Gia bước thẳng vào dòng ký ức sâu kín nhất của Bạch Sở Ngọc. Cậu nhìn thấy cảnh cô bé Sở Ngọc nhỏ thó quỳ gối cô đơn trước Lý Tộ, khát khao được một lần nhìn thấy Trường An và có được hơi ấm bạn bè.
+
+#### 3.9.5. Hóa giải chấp niệm và manh mối chỉ đường lên Bất Kiến Sơn
+Thấu hiểu nỗi đau đớn và sự cô độc của người đồng cảnh ngộ, Thiếu Đông Gia đã dang rộng vòng tay buông kiếm, dùng tấm lòng chân thành để thức tỉnh Bạch Sở Ngọc. Cậu dịu dàng giải thích cho cô hiểu:
+*"Trường An trong giấc mộng kia vốn dĩ không phải là một địa danh, một tòa thành bằng gạch đá, mà nó là biểu tượng thiêng liêng của niềm hy vọng. Đâu cũng có thể là nhà, miễn là trong tim chúng ta vẫn luôn nhớ về nó!"*
+
+Lời nói chân tình ấy đã đánh tan tảng băng cô độc phong ấn trái tim Bạch Sở Ngọc suốt 16 năm qua. Nhận ra chân lý, Bạch Sở Ngọc rơi nước mắt, mỉm cười giải bỏ toàn bộ chấp niệm:
+- Cô tự tay trao lại cho Thiếu Đông Gia **viên ngọc bích (nửa mảnh Kim Đào còn lại)** – giúp tái hợp hoàn chỉnh bảo vật và thức tỉnh toàn bộ tiềm năng cơ thể;
+- Đồng thời, Bạch Sở Ngọc chính là người trao cho Thiếu Đông Gia manh mối sinh tử cuối cùng: Cô tiết lộ rằng kẻ chủ mưu tàn độc của tổ chức **Thiên Dạ** vẫn chưa chết, và mụ ác nữ này hiện đang ẩn náu tại thánh địa cơ quan bí ẩn bậc nhất thế gian: **Bất Kiến Sơn**!
+
+Chính cuộc hội ngộ và sự hóa giải ân tình với Bạch Sở Ngọc đã khép lại chuỗi ngày phiêu bạt đầy máu và nước mắt tại dải đất cát vàng Hà Tây, mở toang cánh cửa dẫn bước Thiếu Đông Gia cùng các bằng hữu tiến lên Bất Kiến Sơn ở Chương 4.
+
+---
+
+### 3.10. Ván Cờ Lật Ngửa: Sự hy sinh thế kỷ của Vương Thanh và Đường Ai Đế Lý Tộ
+
+#### 3.10.1. Năm 907: Chu Ôn soán Đường và mưu đồ của tổ chức Thiên Dạ
 Cùng với sự thức tỉnh từ Kim Đào, toàn bộ hồi ức về **Ván Cờ Lật Ngửa** giữa danh tướng **Vương Thanh** và **Đường Ai Đế Lý Tộ** (Lý Chúc) đã hiện lên rõ nét mồn một như vừa mới xảy ra ngày hôm qua:
 
 Vào những năm 904 – 907, quyền thần Chu Ôn thao túng triều chính, hạ sát Đường Chiêu Tông rồi đưa hoàng tử nhỏ tuổi Lý Tộ lên ngôi làm hoàng đế bù nhìn (Đường Ai Đế). Chu Ôn câu kết với một tổ chức bóng tối thần bí mang tên **Thiên Dạ** – một thế lực ngầm thâm độc chuyên sử dụng tà thuật Mộng Khôi và công nghệ cơ quan hắc ám để thao túng lịch sử.
 
 Hiểu rõ dã tâm cướp ngôi và giết vua diệt khẩu của Chu Ôn, Đường Ai Đế Lý Tộ dù tuổi còn rất trẻ nhưng mang trí tuệ phi phàm của bậc thiên tử. Ngài đã bí mật triệu kiến danh tướng trung kiên nhất triều đình là **Vương Thanh** vào tẩm điện trong một đêm mưa tuyết.
 
-#### 3.9.2. Nước cờ thí mạng của danh tướng Vương Thanh
+#### 3.10.2. Nước cờ thí mạng của danh tướng Vương Thanh
 Trước bàn cờ vây bằng đá hoa cương, Đường Ai Đế và Vương Thanh đã cùng nhau vạch ra một **"ván cờ sinh tử mang tầm vóc trăm năm"**:
 - Biết rằng triều đại Đại Đường tại Trung Nguyên đã đến hồi tận số, không thể nào cứu vãn trước nanh vuốt của Chu Ôn, Đường Ai Đế quyết định không cố thủ tuyệt vọng tại Trường An để tránh làm liên lụy đến tính mạng của hàng triệu trăm họ;
 - Thay vào đó, ngài bí mật ủy thác cho Vương Thanh phân tán toàn bộ kho tàng tri thức cơ quan, bản đồ quân sự và nguồn năng lượng Kim Đào về cất giấu tại vùng biên viễn Hà Tây;
 - Đồng thời, Đường Ai Đế giao phó giọt máu hoàng tộc tương lai (đứa trẻ mang Trấn Quan Ngọc) cho Vương Thanh và các trung thần bảo bọc;
 - Và nước cờ tàn khốc nhất trên bàn cờ ấy chính là: **Tướng quân Vương Thanh đã tự nguyện chọn con đường hy sinh bi tráng nhất!** Ông chấp nhận biến bản thân mình thành một quân cờ thí mạng, giả thua trận, chấp nhận chịu chết tại Thanh Hà năm 959 dưới lưỡi kiếm của quân thù và chịu đựng tiếng oan giết chủ tướng ngút trời, chỉ nhằm mục đích nghi binh, đánh lạc hướng sự chú ý của tổ chức Thiên Dạ và các bạo chúa Trung Nguyên, tạo thời gian cho đứa trẻ sơ sinh (Thiếu Đông Gia) được Giang Yến đưa đi ẩn cư và lớn lên an toàn!
 
-#### 3.9.3. Lời giải cho số phận và cánh cửa dẫn tới Bất Kiến Sơn
+#### 3.10.3. Lời giải cho số phận và cánh cửa dẫn tới Bất Kiến Sơn
 *"Vương Thanh không hề phản bội! Chú Giang không hề giết chủ tướng! Tất cả đều là những quân cờ vĩ đại trên một ván cờ cứu thế!"* – Thiếu Đông Gia nghẹn ngào thốt lên trong nước mắt khi thấu hiểu được nỗi hàm oan và đức hy sinh trời biển của những bậc tiền nhân.
 
 Thế nhưng, hồi ức từ Kim Đào cũng cảnh báo một mối nguy hiểm khôn lường: Tổ chức hắc ám **Thiên Dạ** đang ráo riết săn lùng nguồn năng lượng cơ quan thuật tối thượng – một thứ vũ khí hủy diệt mang tên **Vàng Đen (Kim Ô)**. Và nơi duy nhất cất giữ bí mật này, nơi có thể giúp Thiếu Đông Gia làm chủ hoàn toàn sức mạnh để bảo vệ thiên hạ, chính là thánh địa cơ quan bí ẩn bậc nhất thế gian: **Bất Kiến Sơn – Mặc Sơn Đạo**!
@@ -847,23 +890,24 @@ Thiên Dạ vẫn đang âm thầm ẩn nấp trong bóng tối của lịch s�
 ```
                     [ TRIỀU ĐẠI ĐẠI ĐƯỜNG ]
                                |
-                    (Đường Ai Đế Lý Tộ)
-                               |  (Ván Cờ Lật Ngửa)
-                               v
-                     [ Tướng Quân Vương Thanh ]
-                               |
-            +------------------+------------------+
-            | (Nuôi dưỡng)                        | (Truyền thụ bí mật)
-            v                                     v
-      [ Giang Yến ]                           [ Hà Nhiên ]
-            | (Liều chết cứu sống)
-            v
-   [ THIẾU ĐÔNG GIA ] <==================== [ TRẦN TỬ HỀ ] (Hy sinh tại Cầu Trung Độ)
-   (Dòng máu hoàng tộc - Mang Trấn Quan Ngọc - Hấp thụ Kim Đào)
+                    (Đường Ai Đế Lý Tộ) ----------------------+
+                               |  (Ván Cờ Lật Ngửa)           | (Nhặt nuôi tại Cầu Trung Độ)
+                               v                              v
+                     [ Tướng Quân Vương Thanh ]        [ BẠCH SỞ NGỌC ]
+                               |                       (Nửa Kim Đào - Người Hòa Âm)
+            +------------------+------------------+           |
+            | (Nuôi dưỡng)                        | (Cơ mật)  | (Hội ngộ & Trao lại nửa ngọc)
+            v                                     v           v
+      [ Giang Yến ]                           [ Hà Nhiên ]    |
+            | (Liều chết cứu sống)                            |
+            v                                                 |
+   [ THIẾU ĐÔNG GIA ] <=======================================+
+   (Dòng máu hoàng tộc - Trấn Quan Ngọc - Hấp thụ trọn vẹn Kim Đào)
             |
             +---> Bằng hữu Thanh Hà: [ Hồng Tuyến ], [ Lục Dã ], [ Bác Quảng ]
             +---> Ân nhân dưỡng dục: [ Dì Hàn (Hàn Hương Tầm) ] (Hy sinh tại Thần Tiên Độ)
             +---> Đồng minh Khai Phong: [ Đao Ca ], [ Ôn Vô Khuyết ], [ Hoàng đế Triệu Béo ]
+            +---> Người Hòa Âm tri kỷ: [ Bạch Sở Ngọc ] (Giải mã bí mật Trường An & Thiên Dạ)
             +---> Bộ Ba Báo Thủ Mặc Môn: [ Phùng Kế Thăng (Phùng Ngáo) ], [ Tấn Trung Nguyên ]
             +---> Tri kỷ cơ quan thuật: [ Đạo Trưởng Yến Cự Tử ]
                                |
