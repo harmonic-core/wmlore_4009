@@ -1,7 +1,3 @@
-# ĐẠI TOÀN THƯ CỐT TRUYỆN & LORE TOÀN CẢNH: WHERE WINDS MEET (YÊN VÂN THẬP LỤC THANH)
-
----
-
 ## PHẦN MỞ ĐẦU: TỔNG QUAN THẾ GIỚI QUAN & CƠ CHẾ CỐT LÕI
 
 ### 1. Bối Cảnh Lịch Sử: Điểm Giao Thời Loạn Lạc
@@ -111,18 +107,17 @@ Màn rượt đuổi rừng trúc Thanh Hà                                     
 - Năm 946, sau khi Vương Thanh tử trận tại cầu Trung Độ, hiệp khách **Giang Yến** ôm một đứa trẻ sơ sinh cùng **Trấn Hoàng Ngọc** phá vây chạy về cánh rừng trúc xanh ngát ở Thanh Hà. 
 - Tại đây, công tử tay cầm quạt **Trần Tử Hề** xuất hiện tiếp ứng. Chưa kịp nâng chén rượu tương phùng, toán quân truy sát của Tú Kim Lâu ập đến truy hô: *"Bắt lấy Giang Yến! Kẻ giết cha cướp ngọc, cả thiên hạ đều muốn giết ngươi!"*. Cả hai lên ngựa phi nước đại thoát thân.
 - Khi ngựa của Giang Yến trúng tên té ngã trong một biệt phủ hoang tàn, một mảnh vỡ gươm sắc nhọn đã cắt trúng mặt đứa trẻ sơ sinh khiến nó khóc thét (để lại vết sẹo định mệnh). 
-- Từ màn khói lửa, một ông già đeo **mặt nạ hươu** bước ra – đó chính là **Vô Quy Vọng**, chỉ huy của Tú Kim Lâu. Giang Yến rút kiếm giao đấu, bằng kiếm pháp thượng thừa chỉ vài chiêu đã đánh cho Vô Quy Vọng nằm sấp mặt.
 - Khi Giang Yến toan quay lưng bỏ đi, một con đom đóm Mộng Khôi màu tím kỳ lạ xuất hiện làm Vô Quy Vọng tỉnh lại. Mắt hắn sáng rực nhìn thẳng vào Giang Yến, kéo ý thức Giang Yến bỗng chốc đứng hình và rơi vào ảo ảnh tiềm thức. Trong cơn mơ màng, **tiếng khóc thét của đứa trẻ sơ sinh (Thiếu Đông Gia)** đã khiến Giang Yến chợt tỉnh giấc, đúng lúc nhìn thấy **Trần Tử Hề bị Vô Quy Vọng đâm chết thay mình**. Con đom đóm tím sau đó bay về tay một kẻ bí ẩn trong bóng tối.
 
 #### 2. Nỗi Oan Chiếc Hộp & Cái Chết Hai Lần Của Vương Thanh
-- **Sự phản bội của Đỗ Trọng Uy:** Tướng Đỗ Trọng Uy làm giả quân lệnh, chặn đứng viện binh khiến quân Hậu Tấn của Vương Thanh bị cô lập hoàn toàn.
-- **Chiếc xe ngựa tự chạy:** Vương Thanh biết mình sẽ chết nên đã phái Giang Yến đi tìm Hà Nhiên mang tín vật của Tiết Độ Sứ. Một chiếc xe ngựa tự chạy mang chiếc hộp Mộng Khôi đến chiến trường.
-- **Canh ba & Canh năm:** Vương Thanh mở chiếc hộp Mộng Khôi nhận từ Lý Tộ, dùng tà thuật tàn sát quân Khiết Đan vào canh ba. Đến canh năm, khi chút ý thức người còn sót lại trước khi hóa quái vật, ông khẩn cầu con nuôi Giang Yến kết liễu mình.
-- **Tâm tư của Hà Nhiên:** Hà Nhiên vốn là trẻ mồ côi cùng nhóm khất cái được Vương Thanh cưu mang vào quân ngũ. Hà Nhiên luôn mang lòng ganh tỵ với Giang Yến, ra sức rèn luyện để được Vương Thanh công nhận. Nhưng khi mang chiếc hộp tới cầu cứu Giang Yến, hắn chỉ nhìn thấy khoảnh khắc cuối cùng khi Giang Yến hạ sát tướng quân. Tú Kim Lâu lập tức tung tin đồn Giang Yến "giết cha đoạt ngọc", biến ông thành kẻ thù số một của võ lâm.
+- **Sự phản bội của Đỗ Trọng Uy:** Tướng Đỗ Trọng Uy làm giả quân lệnh, chặn đứng toàn bộ viện binh khiến quân Hậu Tấn của Vương Thanh bị cô lập hoàn toàn trước đại quân Khiết Đan.
+- **Chiếc xe ngựa tự chạy:** Vương Thanh biết mình sẽ chết nên đã phái Giang Yến đi tìm Hà Nhiên mang theo tín vật của Tiết Độ Sứ. Một chiếc xe ngựa không người lái tự chạy mang chiếc hộp Mộng Khôi đến chiến trường.
+- **Canh ba & Canh năm:** Vương Thanh mở chiếc hộp Mộng Khôi nhận từ Đường Ai Đế Lý Tộ, dùng tà thuật tàn sát quân Khiết Đan vào canh ba. Đến canh năm, khi chút ý thức người còn sót lại trước khi hoàn toàn hóa quái vật cuồng bạo, ông khẩn cầu con nuôi Giang Yến tự tay kết liễu mình để giữ gìn danh dự tướng quân.
+- **Tâm tư của Hà Nhiên:** Hà Nhiên vốn là trẻ mồ côi cùng nhóm khất cái được Vương Thanh cưu mang vào quân ngũ. Hà Nhiên luôn mang lòng ganh tỵ với Giang Yến, ra sức rèn luyện để được Vương Thanh công nhận. Nhưng khi mang chiếc hộp tới cầu cứu Giang Yến, hắn chỉ nhìn thấy khoảnh khắc cuối cùng khi Giang Yến hạ sát tướng quân. Tú Kim Lâu lập tức tung tin đồn Giang Yến "giết cha đoạt ngọc", biến ông thành kẻ thù số một của toàn thể võ lâm.
 
 #### 3. Cuộc Điều Tra Phá Án Tại Đền Tướng Quân (In-game Quests)
 - 16 năm sau, Thiếu Đông Gia nhận được bức thư cắm dao máu trên thềm nhà: *"Tên cẩu tặc họ Giang, canh ba đêm nay đến đền tướng quân giải quyết ân oán"*.
-- Thiếu Đông Gia cải trang thành chú Giang đến đền thờ. Hà Nhiên mù xuất hiện, cầm thủ cấp kẻ làm giả quân lệnh tế tướng quân và tấn công Thiếu Đông Gia. Sau vài hiệp giao đấu, Hà Nhiên cất tiếng chê: *"Kiếm pháp của ngươi bây giờ yếu kém, không còn nhanh nhẹn như xưa!"* và phát hiện đây là kẻ giả mạo.
+- Thiếu Đông Gia cải trang thành chú Giang đến đền thờ. Hà Nhiên (nay đã mù hai mắt) xuất hiện, cầm thủ cấp kẻ làm giả quân lệnh tế tướng quân và tấn công Thiếu Đông Gia. Sau vài hiệp giao đấu, Hà Nhiên cất tiếng chê: *"Kiếm pháp của ngươi bây giờ yếu kém, không còn nhanh nhẹn như xưa!"* và phát hiện đây là kẻ giả mạo.
 - Thiếu Đông Gia tìm thấy bức thư tự thú cháy dở, nhìn tượng người kế bên tướng quân và tìm đến ngôi làng lân cận gặp **Lưu Tam Mưu** (lão điên từng là nhân chứng trận đánh).
 - **Màn kịch đối chất:** Hà Nhiên và Lưu Tam Mưu tranh cãi nảy lửa: Lưu Tam Mưu bảo tướng quân chết canh ba, Hà Nhiên bảo chết canh năm. Thiếu Đông Gia phối hợp cùng Hà Nhiên: mang vò rượu **Ly Nhân Lệ** đã giấu từ lâu, Thiếu Đông Gia đóng giả làm Giang Yến (Hà Nhiên nhận ra mùi rượu quen thuộc) để dụ lão điên kể ra chân tướng chiếc xe ngựa tự chạy mang chiếc hộp Mộng Khôi tới, làm sáng tỏ toàn bộ bí mật "chết hai lần trong một ngày" của Vương Thanh.
 
@@ -144,22 +139,26 @@ Màn rượt đuổi rừng trúc Thanh Hà                                     
 ---
 
 ### Hồi 4: Huyền Kiếm, Điền Anh & Bi Kịch Nguyệt Thần
-
-Tổ chức tình báo **Huyền Kiếm** do Hoàng đế Chu Thế Tông (Sài Vinh) sáng lập, đặt căn cứ tại **Xuân Thu Biệt Quán**, quy tụ 16 điệp báo viên xuất chúng:
 - **Thời trẻ của Điền Anh & Con trai người thợ rèn:** Điền Anh cùng người bạn thân là **con trai của người thợ rèn** (sau này về Phong Hòa thôn sinh sống và kể lại quá khứ của Điền Anh cho Thiếu Đông Gia) chạy nạn đến Thanh Hà. Năm 946, bị sơn tặc bắt cóc ép làm cướp, một **kiếm khách áo trắng** đơn thương độc mã dọn sạch sơn trại cứu cả nhóm xuống núi, thôi thúc Điền Anh tự định đoạt số phận và bước chân vào Huyền Kiếm.
 - **Biệt danh "Điền Tam Diệp":** Khi tham gia Văn Tân Quán và tìm thấy Thập Tướng Chi Thư của Phùng Đạo, Điền Anh nổi danh với biệt danh "Điền Tam Diệp" vì sở thích đọc sách chỉ đọc đúng 3 trang đầu rồi vứt xó.
 - **Kỳ tích giả của Diệu Thiện:** Khi Sài Vinh đàn áp tăng giả trốn thuế và trốn quân dịch, Điền Anh hiến kế thanh lọc Phật giáo, tự cạo đầu lấy pháp danh **Diệu Thiện**. Bằng kỹ thuật quang học khúc xạ và **Phật Quang Ngọc**, ông dựng nên "kỳ tích Phật Quang" trên đỉnh núi để dẫn dắt lòng dân, phá tượng giả lấy đồng giải quyết ngân khố.
-- **Bi kịch Nguyệt Thần (Lê Chân Chân):** Tại Tiểu Lộc Thôn trong một đám cưới ma đầy tang tóc, Điền Anh tả xung hữu đột cứu cô gái mù Lê Chân Chân và đặt vào tay nàng một thanh kiếm: *"Hoặc là nàng dùng nó làm vũ khí tự vệ, hoặc lựa chọn kết thúc cuộc sống ngay tại đây"*. Chân Chân khổ luyện thành sát thủ Nguyệt Thần. Điền Anh hẹn nàng giao dịch **"đổi mạng sứ thần Khiết Đan lấy một đôi mắt"**. 
-- **Sự phản bội của Phong Bổ Kỳ:** Phong Bổ Kỳ say mê Chân Chân nên xây tặng cổ động Nguyệt Hồ. Khi nghe tin giang hồ truy sát Nguyệt Thần vì cứu sứ thần Khiết Đan, Phong Bổ Kỳ tưởng nàng phản quốc nên **đã chỉ đường cho nhân sĩ giang hồ xông vào mật thất Nguyệt Hồ truy sát Nguyệt Thần**. Nàng kiệt sức đánh tan kẻ thù, khoác lên mình bộ váy cưới rồi vĩnh viễn ra đi. Điền Anh tạo kỳ tích Phật Quang lần 2, tặng con **Ngọc Mã** cho sứ thần Khiết Đan (chuỗi nhiệm vụ Hỏa thiêu Thiên Phật Cốc / nơi người chơi lấy võ học Như Lai Thần Chưởng).
+- **Bi kịch Nguyệt Thần (Lê Chân Chân):**
+  - Tại Tiểu Lộc Thôn trong một đám cưới ma đầy tang tóc, Điền Anh tả xung hữu đột cứu cô gái mù Lê Chân Chân khỏi hủ tục chôn sống và đặt vào tay nàng một thanh kiếm: *"Hoặc là nàng dùng nó làm vũ khí tự vệ, hoặc lựa chọn kết thúc cuộc sống ngay tại đây"*. Chân Chân nuốt nước mắt khổ luyện kiếm pháp, trở thành đệ nhất sát thủ mù với danh hiệu **Nguyệt Thần**.
+  - Điền Anh vì đại cuộc bang giao, đã lập một giao kèo sinh tử với Chân Chân: **"Đổi mạng sứ thần Khiết Đan lấy một đôi mắt sáng"**. Điền Anh hứa khi nàng hoàn thành việc ám sát bảo vệ bí mật, ông sẽ mang viên ngọc mắt Phật Quang về chữa lành đôi mắt cho nàng.
+- **Sự hiểu lầm tai hại & Cái chết trong giá y của Nguyệt Thần:**
+  - Chàng thư sinh **Phong Bổ Kỳ** si mê Chân Chân sâu sắc, đã bí mật đào một mật thất dưới lòng hồ mang tên **Cổ động Nguyệt Hồ** để làm nơi ẩn náu và chuẩn bị lễ đường thành hôn cho hai người.
+  - Khi nghe tin nhân sĩ võ lâm Trung Nguyên rầm rộ truy sát Nguyệt Thần vì nàng ra tay giải cứu một sứ thần Khiết Đan theo lệnh của Điền Anh, Phong Bổ Kỳ đau đớn nghĩ rằng người con gái mình yêu đã phản bội giang hồ, cấu kết với ngoại bang. Trong cơn quẫn trí và cuồng ghen, Phong Bổ Kỳ **đã chỉ lối cho đám sát thủ giang hồ xông thẳng vào mật thất Nguyệt Hồ**.
+  - Trong căn hầm ngập nước lấp lánh ánh trăng, cô gái mù một mình vung kiếm huyết chiến với hàng chục cao thủ. Nàng kiệt sức gục ngã bên mép nước, máu nhuộm đỏ chiếc váy cưới màu đỏ thắm (**giá y**) mà nàng vừa tự tay khoác lên người để chờ đợi ngày hạnh phúc. Điền Anh tạo kỳ tích Phật Quang lần 2 tại Thiên Phật Cốc, tặng con **Ngọc Mã** cho sứ thần Khiết Đan để giữ hòa khí biên ải mà không hề hay biết người con gái ấy đã vĩnh viễn nhắm mắt.
 - **Ân Oán Thái Bình Chuông Giữa Dì Hàng & Chu Thanh Tuyền:**
-  - Dì Hàng (Hàng Hương Tầm) và người tình trẻ **Chu Thanh Tuyền** nảy sinh mâu thuẫn kịch liệt khi Chu Thanh Tuyền muốn dấn thân vào nhiệm vụ điệp báo tử địa phương Bắc ("Yến Ẩn"). Trận cãi vã dẫn đến giao đấu làm vỡ nát **Thái Bình Chuông**.
-  - Lợi dụng lúc hai người bất hòa, Điền Anh lẻn vào Nhược Thủy Hàng đánh cắp **bí thuật dịch dung** của dì Hàng, xé đôi làm 2 mảnh: một nửa trao cho Chu Thanh Tuyền, một nửa tự giữ. Điều này khiến dì Hàng ôm mối hận tình cay đắng suốt 16 năm.
+  - Dì Hàng (Hàn Hương Tầm) và kiếm khách trẻ **Chu Thanh Tuyền** từng là đôi tri kỷ thanh mai trúc mã. Nhưng khi Chu Thanh Tuyền kiên quyết dấn thân vào nhiệm vụ điệp báo tử địa phương Bắc ("Yến Ẩn"), hai người nảy sinh mâu thuẫn kịch liệt. Trận cãi vã dẫn đến giao đấu làm vỡ nát quả chuông đồng **Thái Bình Chuông** – biểu tượng cho lời thề ước bình an.
+  - Lợi dụng lúc nội bộ rạn nứt, Điền Anh lẻn vào Nhược Thủy Hàng đánh cắp **bí thuật dịch dung** của dì Hàng, xé đôi làm 2 mảnh: một nửa trao cho Chu Thanh Tuyền dùng để thâm nhập đất Bắc, một nửa tự giữ làm công cụ tình báo cho Huyền Kiếm. Điều này khiến dì Hàng ôm mối hận tình cay đắng suốt 16 năm, vừa căm giận sự phản bội của Điền Anh, vừa khắc khoải ngóng trông tin tức người thương.
 - **Hạ Màn Điền Anh Tại Phật Quang Cốc (Năm 962):**
-  - Năm 959, sau khi Sài Vinh băng hà, Điền Anh kẹt tại Nam Đường và được Giang Yến giải cứu theo thư cầu viện của Ngụy Nhân Phủ.
-  - Năm 962, Điền Anh mang con mắt ngọc về Nguyệt Hồ thì Lê Chân Chân đã qua đời từ lâu. Ôm nỗi ân hận tột cùng, Điền Anh trở về đỉnh Phật Quang Cốc loan tin "kỳ tích thứ ba" nhằm thu hút và thanh trừng Tú Kim Lâu.
-  - Thiếu Đông Gia tìm đến Phật Quang Cốc, giao chiến và đánh bại Điền Anh (đoạt tuyệt kỹ *Vô Ảnh Cước*). Tượng Phật khổng lồ sụp đổ chôn vùi vị anh hùng huyền thoại của Huyền Kiếm (hoặc có giả thuyết Điền Anh dùng thuật dịch dung giả chết để tiếp tục âm thầm lên phương Bắc mưu đồ thu hồi Yên Vân).
-- **Tiểu Thập Thất:** Thành viên thứ 17 của Huyền Kiếm, một thiếu niên chậm chạp nhưng mang thần lực vô song (trùm tại Xuân Thu Biệt Quán). Ngụy Nhân Phủ lừa cậu ở lại rèn đủ 10.000 thanh kiếm thì "Đại Long" Sài Vinh sẽ trở về để bảo toàn mạng sống cho cậu trước giang hồ hiểm ác.
-- **Thiết Tâm Tướng Quân Diệp Vạn Sơn:** Tướng trấn ải hy sinh vợ con bảo vệ bá tánh. Vì triều đình chần chừ Bắc phạt, ông đưa quân Thiết Hổ mặc giáp Khiết Đan tàn sát dân làng tại **Bồ Đề Hải** nhằm tạo cớ phát động chiến tranh, sau đó tự giam mình trong mê trận **Bồ Đề Khổ Hải** sám hối.
+  - Năm 959, Sài Vinh băng hà, giang sơn đổi chủ sang họ Triệu. Điền Anh kẹt tại Nam Đường và được Giang Yến giải cứu theo thư cầu viện của Ngụy Nhân Phủ.
+  - Năm 962, một lão kiếm khách tóc bạc trắng như cước, gãy một bên chân bước vào cổ động Nguyệt Hồ. Điền Anh mang con mắt ngọc về nhưng trước mắt ông chỉ còn lại bộ hài cốt khô héo mặc giá y đỏ phủ đầy rêu phong. Ôm nỗi ân hận tột cùng, Điền Anh trở về đỉnh Phật Quang Cốc, dựng nên "kỳ tích thứ ba" nhằm lừa toàn bộ đám sát thủ Tú Kim Lâu và đám giang hồ tham lam tụ họp lại để cùng chôn vùi trong biển lửa.
+  - Thiếu Đông Gia tìm đến Phật Quang Cốc giao chiến với Điền Anh. Khi bức tượng Phật khổng lồ sụp đổ chôn vùi đỉnh núi, Điền Anh đã mỉm cười thanh thản đón nhận cái chết để tạ tội cùng Chân Chân (hoặc theo một truyền thuyết ngầm, ông dùng bí thuật dịch dung giả chết để mai danh ẩn tích tiếp tục sứ mệnh phương Bắc).
+- **Tiểu Thập Thất & Thiết Tâm Diệp Vạn Sơn:**
+  - **Tiểu Thập Thất:** Thành viên thứ 17 của Huyền Kiếm, một thiếu niên đầu óc ngây ngô nhưng mang thần lực bẩm sinh vô địch thiên hạ. Ngụy Nhân Phủ dỗ dành cậu ở lại lò rèn Xuân Thu Biệt Quán đúc đủ 10.000 thanh kiếm thì "Đại Long" Sài Vinh sẽ cưỡi rồng trở về – một lời nói dối xót xa để giữ mạng cho cậu bé trước vòng xoáy thanh trừng chính trị.
+  - **Thiết Tâm Tướng Quân Diệp Vạn Sơn:** Vị tướng biên ải từng hy sinh cả vợ con để giữ thành. Uất ức vì triều đình chần chừ không chịu Bắc phạt thu hồi Yên Vân, ông mặc giáp Khiết Đan tàn sát dân làng tại **Bồ Đề Hải** để ép triều đình khai chiến, sau đó tự giam mình trong ảo trận **Bồ Đề Khổ Hải** để sám hối tội lỗi ngập trời.
 
 ---
 
@@ -167,9 +166,9 @@ Tổ chức tình báo **Huyền Kiếm** do Hoàng đế Chu Thế Tông (Sài 
 
 ```
 Tuổi 16 tại Thần Tiên Độ ──► Bị cướp Trấn Hoàng Ngọc ──► Đao Ca & Gã Múa Ngựa Đa Lan
-                                                                   │
-                 ┌─────────────────────────────────────────────────┴─────────────────────────────────┐
-                 ▼                                                                                   ▼
+                                                                    │
+                  ┌─────────────────────────────────────────────────┴─────────────────────────────────┐
+                  ▼                                                                                   ▼
 Kế hoạch "bỏ nhà đi bụi" & Đêm Khai Đàn định mệnh                   Khúc Thiên Hùng Ca & Mộng Cảnh Hoa Đăng
 - Dì Hàng đổ rượu, dân làng chuẩn bị di tản                         - Đao Ca nốc cạn Ly Nhân Lệ kích nổ
 - Lời ước hẹn cùng Đao Ca tới Khai Phong                            - Đồng quy vu tận mở đường sống
@@ -177,16 +176,70 @@ Kế hoạch "bỏ nhà đi bụi" & Đêm Khai Đàn định mệnh            
 ```
 
 #### 1. Cuộc Sống Thơ Ấu & Vụ Cướp Trấn Hoàng Ngọc
-- Đứa trẻ lớn lên ở Thần Tiên Độ dưới sự che chở của Giang Yến và **dì Hàng (Hàng Hương Tầm)**. Năm 13 tuổi, khi Thiếu Đông Gia háo hức đòi ra giang hồ, chú Giang đập bàn vung kiếm lướt qua mặt (màn hình MUP chọn dung mạo / giới tính) rồi bỏ đi biền biệt 3 năm để điều tra sự thật về Vương Thanh.
-- Năm 16 tuổi, một kẻ bịt mặt đột kích đánh "bem bép" vào mặt Thiếu Đông Gia, cướp mất miếng **Trấn Hoàng Ngọc** rồi đánh ngất nhân vật. 
-- Cô bé **Hồng Tuyến** đánh thức Thiếu Đông Gia dậy sỉ vả vì đi chơi không rủ, dắt xuống đền Tướng Quân. Giữa đường bị một mũi tên bay tới hạ gục chú chim trước mặt; gặp một anh đẹp trai tập bắn cung tặng sách dạy bắn cung và rủ bắn thi; gặp một người lạ tặng bản đồ (đom đóm tím lại bay ra). Thiếu Đông Gia dùng kiến thức buôn bán lật tẩy lão Jein lừa kẹo Hồng Tuyến và chia tiền thưởng; anh Quảng Râu vỗ về cô bé và dặn Thiếu Đông Gia về xin phép cha Hồng Tuyến (**chú Dao**).
-- Về nhà, dì Hàng đá xoáy, đòi đánh roi mây vì tội ham chơi và cấm ra giang hồ, bắt đi bưng rượu. Trong quán, Thiếu Đông Gia gặp một phụ nữ tuyệt đẹp đang uống rượu Ly Nhân Lệ và buông lời cảm thán: *"Năm sau không được thưởng thức nữa, thật tiếc"* trước khi dì Hàng bước vào ngăn lại (chính là Tầm Tâm cải trang).
+- Đứa trẻ sơ sinh năm xưa lớn lên trong vòng tay bao bọc của Giang Yến và **dì Hàng (Hàn Hương Tầm)** tại bến nước Thần Tiên Độ hiền hòa. Năm 13 tuổi, khi Thiếu Đông Gia nằng nặc đòi cầm kiếm ra giang hồ, chú Giang đập bàn vung kiếm lướt qua sát mặt (màn hình MUP lựa chọn dung mạo / giới tính nhân vật) rồi bỏ đi biền biệt suốt 3 năm trời để bí mật điều tra sự thật về cái chết của tướng quân Vương Thanh.
+- Năm 16 tuổi, một kẻ bịt mặt bất ngờ đột kích đánh "bem bép" vào má Thiếu Đông Gia, cướp mất miếng ngọc bội hộ mệnh **Trấn Hoàng Ngọc** rồi đánh ngất nhân vật.
+- Cô bé **Hồng Tuyến** lon ton chạy đến đánh thức Thiếu Đông Gia dậy, vừa bĩu môi trách móc vì đi chơi không rủ, vừa dắt nhân vật xuống đền Tướng Quân chơi hội. Trên đường đi, một loạt cuộc gặp gỡ kỳ lạ diễn ra: Một mũi tên bay vút tới bắn hạ chú chim sẻ trước mặt; một thanh niên tuấn tú luyện bắn cung tặng sách yếu quyết và thách đấu bắn bia; một lữ khách bí ẩn trao tặng tấm bản đồ cổ (đom đóm tím lại lập lòe bay ra dẫn lối). Thiếu Đông Gia dùng sự khôn ngoan lật tẩy gã buôn Jein lừa kẹo của Hồng Tuyến; anh **Quảng Râu** vỗ về cô bé và nhắc nhở Thiếu Đông Gia nhớ về xin phép cha Hồng Tuyến là **chú Dao**.
+- Về đến tửu quán, dì Hàng vừa đay nghiến vừa dọa đánh roi mây vì tội ham chơi lêu lổng, cấm tiệt ý định bước chân vào chốn giang hồ đầy cạm bẫy, bắt nhân vật phải đi bưng bê vò rượu. Trong góc quán tối, một phụ nữ kiều diễm tuyệt trần đang nhấp từng ngụm rượu Ly Nhân Lệ, buông lời cảm thán ma mị: *"Rượu ngon thế này, năm sau e rằng không còn cơ hội thưởng thức nữa, thật đáng tiếc..."* trước khi dì Hàng bước ra cắt ngang câu chuyện bằng ánh mắt cảnh giác sắc lạnh (người phụ nữ đó chính là nữ sát thủ **Tầm Tâm** của Tú Kim Lâu cải trang).
 
 #### 2. Tiểu Sử Tử Nhân Đao (Đao Ca), Chữ "Tín" Tây Vực & Mối Thâm Giao Chu Thanh Tuyền
-- **Xuất thân & Nỗi đau mất người thân:** Đao Ca vốn là đao nhân đến từ Tây Vực. Năm 10 tuổi, cha mẹ mất vì chữ "Tín". Hắn cùng huynh trưởng giữ trọn chữ Tín mà sống. Sau này, huynh trưởng bị kẻ thù mang tên **Bạch Vân Thiên** sát hại.
-- **Thanh Tử Nhân Đao nung từ tro cốt:** Mang tro cốt huynh trưởng vào Trung Nguyên, Đao Ca lao vào luyện võ, thách đấu khắp thiên hạ và chịu vô số thương tích. Hắn dùng bí thuật **Thiên Trì Huyền Thuyết**, rắc tro cốt của anh trai vào lò nung để đúc nên thanh đại đao mang danh **Tử Nhân Đao**. Hắn lập huyết thệ: Vệt máu đầu tiên trên đao là máu của chính mình tế cha mẹ và anh trai; vệt máu thứ hai sẽ dành cho Bạch Vân Thiên.
-- **Băng cướp Thập Nhị Sát:** Biên giới Yên Vân từng có băng cướp 12 tên vô sỉ chuyên cướp bóc và làm nhục phụ nữ. Bạch Đại Hiệp (Yên Bắc Minh) trừ khử chúng nhưng bỏ mạng vì Đao Ca (thành viên thứ 13) tương trợ. Sau đó hai bên trở mặt, Đao Ca một đao chém chết 11 tên, duy chỉ tha mạng cho tên cầm đầu vì ân tình truyền dạy bí kíp Thiên Trì Huyền Thuyết.
-- **Mối tri kỷ với Chu Thanh Tuyền:** Chu Thanh Tuyền từng truy sát Đao Ca hàng chục lần không thành. Đến khi thấy Đao Ca huyết chiến Thập Nhị Sát, Chu Thanh Tuyền không thừa cơ ám hại mà ra tay tương trợ $\rightarrow$ Cả hai cảm phục nhân cách đối phương mà kết thành sinh tử tri kỷ. Trong trận huyết chiến Hoắc Thủy Thành, phe Trung Nguyên thảm bại, Chu Thanh Tuyền trọng thương được Đao Ca cõng chạy trốn nhưng đã hy sinh rơi xuống nước mất xác. Đao Ca đến Thần Tiên Độ vừa để tìm dì Hàng lấy kỷ vật, vừa để báo tin dữ cho nàng.
+- **Xuất thân & Nỗi đau Tây Vực:** Đao Ca vốn là một đao khách lưu lạc đến từ vùng cát bụi Tây Vực xa xôi. Năm hắn 10 tuổi, cha mẹ hắn chết vì giữ trọn chữ "Tín". Huynh đệ hắn thề sống chết vì chữ Tín ấy. Nhưng sau này, người anh trai ruột thịt mà hắn tôn kính nhất đã bị kẻ thù mang tên **Bạch Vân Thiên** phục kích sát hại dã man.
+- **Thanh Tử Nhân Đao nung từ tro cốt:** Ôm hũ tro cốt của anh trai vượt ngàn dặm sa mạc vào Trung Nguyên, Đao Ca lao vào những trận quyết đấu đẫm máu khắp các võ đài giang hồ. Hắn tìm đến bí thuật rèn kiếm cổ xưa **Thiên Trì Huyền Thuyết**, tự tay đổ toàn bộ tro cốt của anh trai vào lò lửa nghìn độ, rèn nên thanh đại đao đen thẫm nặng trịch mang tên **Tử Nhân Đao**. Hắn rạch tay thề độc: *Vệt máu đầu tiên trên đao là máu của chính mình để tế hương hồn cha mẹ và anh trai; vệt máu thứ hai nhất định phải lấy từ cổ họng Bạch Vân Thiên!*
+- **Băng cướp Thập Nhị Sát & Chữ Tín quái đản:** Vùng biên ải Yên Vân từng khiếp đảm trước băng cướp 12 tên vô lại chuyên cướp bóc, hãm hiếp. Bạch Đại Hiệp (Yên Bắc Minh) truy sát chúng nhưng bị Đao Ca (khi đó là thành viên thứ 13 vì một lời hứa trả ơn) cản trở dẫn đến bỏ mạng. Sau khi nhận rõ bản chất đê hèn của băng cướp, Đao Ca trở mặt, một đao chém đứt đầu 11 tên cướp, duy chỉ tha mạng cho tên cầm đầu vì đã lỡ thề không giết ân nhân truyền dạy bí kíp rèn đao.
+- **Mối sinh tử tri kỷ với Chu Thanh Tuyền:** Chu Thanh Tuyền từng mang kiếm truy sát Đao Ca suốt nhiều tháng ròng để báo thù cho giới võ lâm. Nhưng trong trận huyết chiến với Thập Nhị Sát, thấy Đao Ca mình đầy thương tích vẫn liều mình bảo vệ một phụ nữ nghèo, Chu Thanh Tuyền đã thu kiếm, cùng Đao Ca kề vai sát cánh diệt giặc. Cả hai uống rượu kết nghĩa huynh đệ dưới trăng. Trong trận tử chiến Hoắc Thủy Thành trước quân xâm lược Khiết Đan, quân Trung Nguyên vỡ trận, Chu Thanh Tuyền trọng thương được Đao Ca cõng chạy trốn qua làn mưa tên nhưng cuối cùng đã kiệt sức rơi xuống dòng sông chảy xiết mất xác. Đao Ca lặn lội tìm về Thần Tiên Độ vừa để tìm kỷ vật gửi lại, vừa để báo tin dữ cho dì Hàng.
+
+#### 3. Bí Mật Giếng Y Quán, Gã Múa Ngựa Đa Lan & Đao Ca Gặp Dì Hàng
+- **Đụng độ Đao Ca dưới hầm rượu:** Lần theo dấu vết mùi rượu lạ xuống hầm ngầm, Thiếu Đông Gia chạm trán Đao Ca. Sau hồi giao đấu kiếm đao tóe lửa, Đao Ca nhận ra kiếm chiêu của Giang Yến liền dừng tay. Thấy gã đao khách cộc cằn dùng dây thừng trói gô mình lại tra hỏi, Thiếu Đông Gia giả vờ ngoan ngoãn rồi nhanh tay dùng mảnh gốm vỡ cắt dây, co giò chạy thục mạng về làng. Đao Ca thực chất cố tình nới lỏng nút buộc để nhân vật dẫn đường đến chỗ dì Hàng.
+- **Mật thất Huyền Kiếm dưới đáy giếng Thiên Bất Thụ:** Trở về y quán tìm dì, Thiếu Đông Gia nghe những lời đồn ma quái về thần y Thiên Bất Thụ (sư phụ dì Hàng). Tò mò nhảy xuống đáy giếng sâu không một giọt nước, nhân vật phát hiện một mạng lưới địa đạo ngầm rùng rợn: Hàng chục nghĩa sĩ Huyền Kiếm đang ngồi bất động, toàn thân quấn băng trắng toát như xác ướp. Khi chạm tay vào cuốn trục cổ, Thiếu Đông Gia ngất lịm, rơi vào ảo ảnh không gian đảo ngược đỏ ngầu màu máu, thấy bóng dáng dì Hàng cô độc đứng uống rượu giữa biển kiếm. Nhân vật bàng hoàng nhận ra: Đây là nơi các tử sĩ hy sinh dung mạo, chịu trăm ngàn đau đớn để hoán đổi gương mặt ẩn mình thu hồi 16 châu Yên Vân; và dì Hàng chính là người bảo vệ cuốn **Danh Sách Mật Thám** tối mật ấy.
+- **Tập kích nhà dì Hàng & Dấu vết nhà kho cũ:** Vừa trèo lên khỏi giếng, Thiếu Đông Gia và Đao Ca bất ngờ bị một toán sát thủ bịt mặt bắn tên lửa thiêu rụi mái nhà. Cả hai tung mình phá ngói xông lên, đao kiếm phối hợp dọn sạch toán địch, rồi cùng nhau lần theo vết máu của một tên lính giả chết trốn về phía nhà kho bỏ hoang bên bờ sông.
+- **Gã múa ngựa & Bạch mã Đa Lan:**
+  - Để "trả đũa" việc bị Đao Ca trói ban nãy, Thiếu Đông Gia cố ý ném bao gạo làm rơi xủng xoảng, đánh động lính canh khiến Đao Ca phải chửi thề rút đao cản giặc. Thiếu Đông Gia lẻn vào trong thì phát hiện bé **Hồng Tuyến** và **anh Quảng Râu** đang bị trói chặt miệng, nhét giẻ trong góc tối.
+  - Sau khi cởi trói cho hai người, Thiếu Đông Gia đạp cửa gian trong, bắt gặp một gã thầy bùa/múa ngựa đang quỳ lạy van vỉ trước pho tượng tà giáo. Hắn hoảng hốt tháo chạy ra bãi đất trống, thổi còi gọi con chiến mã lông trắng bờm dài tên là **Đa Lan**.
+  - Thiếu Đông Gia vung kiếm chém ngã con ngựa. Gã thầy bùa phát cuồng, nhét một viên đan dược Mộng Khôi đen ngòm vào miệng con vật. Con ngựa trắng gầm lên man dại, đôi mắt chuyển sang màu đỏ ngầu, sống dậy điên cuồng lao tới giẫm nát Thiếu Đông Gia. Đúng khoảnh khắc ngàn cân treo sợi tóc, **dì Hàng** phi thân từ ngọn cây xuống, phóng ngọn phi đao cắm ngập vào mi tâm con bạch mã. Con thú ngã gục, miệng nôn ra một bọc dịch đen tanh tưởi bốc khói nghi ngút.
+- **Bến sông đổ rượu Ly Nhân Lệ & Nỗi đau 16 năm:**
+  - Đao Ca bước tới, cắm thanh đại đao xuống đất, quỳ một gối trao lại chiếc ngọc bội của Chu Thanh Tuyền và nghẹn ngào thông báo: *Chu huynh đã tử chiến tại Hoắc Thủy Thành, thi thể chìm sâu dưới đáy sông không tìm lại được.*
+  - Dì Hàng đứng chết lặng giữa cơn gió chiều lộng lẫy. Người đàn ông dì yêu thương và chờ đợi suốt 16 năm thanh xuân rốt cuộc đã vĩnh viễn không bao giờ trở về nữa.
+  - Dì Hàng lặng lẽ bước ra bến sông Thần Tiên Độ. Dì mở từng nắp vò rượu **Ly Nhân Lệ** – thứ rượu thượng hạng dì tự tay ủ suốt 16 năm chờ ngày trùng phùng – rồi dốc ngược từng vò xuống dòng nước cuộn sóng. Màu rượu đỏ như máu hòa tan vào dòng sông hoàng hôn, dì Hàng lẩm bẩm trong tiếng nấc nghẹn ngào: *"Người đi không về nữa... Giữ lại men say này cho ai uống đây..."*
+
+#### 4. Kế Hoạch "Bỏ Nhà Đi Bụi", Đêm Tiệc Khai Đàn & Giấc Mơ Khai Phong Bị Dập Tắt
+- **Quyết định di tản dân làng:** Linh cảm thấy Tú Kim Lâu đã lần ra dấu vết và Thần Tiên Độ sắp trở thành tử địa, dì Hàng nhờ **chú Dao** (cha Hồng Tuyến) đi thông báo cho toàn bộ bà con chòm xóm và khách trong tửu lầu thu dọn hành lý chuẩn bị rời đi. Dì sắp đặt: *Sau đêm tiệc Khai Đàn ngày mai, tất cả dân làng sẽ cùng dì vượt sông di tản sang Bất Kiến Sơn lánh nạn.*
+- **Kế hoạch "bỏ nhà đi bụi" của Thiếu Đông Gia:**
+  - Bản tính vốn phóng khoáng, khao khát tự do vẫy vùng khắp bốn bể, Thiếu Đông Gia không chấp nhận cảnh phải cả đời chạy trốn lưu vong theo sự sắp đặt của người lớn. Nhân vật quyết định tự vạch ra kế hoạch "bỏ nhà đi bụi" để bước chân vào chốn giang hồ rộng lớn.
+  - Được bé Hồng Tuyến nằng nặc đòi dẫn đi tìm Đao Ca, Thiếu Đông Gia dắt cô bé ra bãi đá bờ sông. Thiếu Đông Gia thẳng thắn nhận lỗi vì những trò nghịch ngợm trêu chọc trước đó, đồng thời bày tỏ nguyện vọng muốn theo Đao Ca lên Biện Kinh (thành Khai Phong) lập nghiệp và hành tẩu giang hồ. Nhìn thấy ánh mắt rực lửa nhiệt huyết tuổi trẻ của thiếu niên rất giống người anh trai đã khuất của mình, Đao Ca bật cười hào sảng, vỗ vai nhân vật nhận lời: *"Được! Sáng sớm ngày kia, theo ta lên Khai Phong!"*
+- **Bức thư chia tay dưới ánh đèn dầu & Chiếc áo đỏ mới:**
+  - Đêm đó, bên ngọn đèn dầu le lói trong phòng, Thiếu Đông Gia nén đau thương viết một bức thư từ biệt dài để lại trên bàn cho dì Hàng, kể về ước mơ giang hồ của mình và xin dì tha thứ cho đứa con bướng bỉnh. Nhân vật cũng viết vài dòng chia tay gửi chú Dao, anh Quảng Râu và dân làng.
+  - Sáng hôm sau, Thiếu Đông Gia chạy đi tìm cô bé Hồng Tuyến, trao tặng em một chiếc áo khoác mới màu đỏ thắm rực rỡ mà nhân vật đã dùng số tiền dành dụm mua được: *"Áo mới cho muội này. Ngày mai muội theo dì Hàng đi trốn nạn, ta lên Khai Phong, phải biết tự chăm sóc mình nghe chưa!"*. Cô bé Hồng Tuyến mặc chiếc áo đỏ xúng xính, cười tít mắt khoe khắp làng.
+  - Cả ngôi làng Thần Tiên Độ rộn ràng chuẩn bị cho đêm tiệc **Khai Đàn** – một bữa tiệc chia tay đầy ắp tiếng đàn, tiếng cười và men rượu nồng ấm của tình làng nghĩa xóm. Ai cũng tin rằng: Sáng sớm mai, dân làng sẽ cùng dì Hàng di tản đến nơi bình yên, còn Thiếu Đông Gia sẽ thúc ngựa cùng Đao Ca thẳng tiến Khai Phong.
+- **Đêm định mệnh mất tất cả:**
+  - Rượu Khai Đàn thơm ngát vừa rót đầy chén, khúc nhạc hoan ca chưa dứt thì thảm kịch giáng xuống như sét đánh ngang tai. Đoàn thuyền chiến hắc ám của Tú Kim Lâu do nữ chỉ huy tàn bạo **Tầm Tâm (Thiên Dạ Song Hồn)** dẫn đầu lặng lẽ xé toạc màn sương đêm, đổ bộ lên bến sông Thần Tiên Độ.
+  - Tiếng la hét xé lòng vang lên: Người đầu tiên ngã xuống dưới lưỡi đao tàn độc của lũ sát thủ chính là **chú Dao** – người cha hiền lành vừa mang hũ rượu ra mời khách!
+  - Lửa hung tàn bùng cháy ngút trời thiêu rụi tửu quán, biến Thần Tiên Độ thành biển máu địa ngục trần gian. Giấc mơ "bỏ nhà đi bụi", lời ước hẹn ngao du Khai Phong cùng Đao Ca và tuổi thơ êm đềm của thiếu niên bỗng chốc tan thành tro bụi trong máu và nước mắt.
+
+#### 5. Đêm Huyết Tẩy & Khúc Tráng Ca Của Đao Ca - Hồng Tuyến
+- Lũ sát thủ Tú Kim Lâu lùng sục từng căn nhà, tàn sát không tha một ai để tìm kiếm cuốn Danh Sách Mật Thám. Nữ ma đầu Tầm Tâm thi triển tà thuật dịch dung, biến hóa gương mặt thành những người thân quen đã chết để lừa gạt, sát hại dân làng.
+- **Sự hy sinh anh dũng của Hồng Tuyến:**
+  - Giữa lúc dân làng đang hoảng loạn kẹt cứng trong lối ngõ hẹp bị lửa bao vây, cô bé **Hồng Tuyến** trong chiếc áo đỏ thắm đã trốn khỏi hầm trú ẩn, liều mình leo lên đỉnh mỏm đá cao nhất của ngôi làng.
+  - Đứng sừng sững giữa bầu trời đêm rực lửa, Hồng Tuyến dùng hết sức bình sinh vẫy cao lá cờ vải đỏ chỉ lối thoát hiểm bí mật dẫn ra bờ sông cho bà con tị nạn. Giữa tiếng gào khóc của dân làng thoát hiểm, một mũi tên độc màu đen từ cánh cung của Tầm Tâm xé gió lao tới, cắm phập vào lồng ngực cô bé.
+  - Chiếc áo đỏ thắm nhuộm đẫm máu tươi, cô bé ngã xuống từ mỏm đá trong ánh trăng tàn, đôi mắt vẫn mở to nhìn về phía dòng người đang an toàn tháo chạy.
+- **Khúc tráng ca nổ hầm rượu của Đao Ca:**
+  - Dưới hầm chứa rượu ngầm của tửu quán, Thiếu Đông Gia cùng Đao Ca rơi vào vòng vây nghẹt thở của hai phân thân Tầm Tâm (một phân thân tóc trắng ma quái và một phân thân mang gương mặt dì Hàng). Đao kiếm va chạm kịch liệt, Đao Ca hứng trọn nhiều vết chém sâu hoắm để che chắn cho Thiếu Đông Gia.
+  - Nhận thấy cửa hầm đã bị lính giặc bịt kín bằng cọc gỗ và đá tảng, không còn đường lui, Đao Ca gạt phăng máu trên khóe miệng, ngửa cổ nốc cạn vò rượu Ly Nhân Lệ cuối cùng còn sót lại trên giá. Hắn cười vang một tràng hào sảng rúng động cả gian hầm:
+    > *"Ha ha ha! Lũ súc sinh Tú Kim Lâu! Rượu 16 năm của Thần Tiên Độ ngon thế này, hôm nay lão tử mời tất cả các ngươi cùng uống cạn để nếm thử mùi vị của tro cốt Tây Vực!"*
+  - Đao Ca dùng hết sức bình sinh tung một cước đá văng Thiếu Đông Gia lọt qua khe nứt thông gió duy nhất dẫn ra bãi sỏi bờ sông, rồi vung chiếc đèn lồng rực lửa ném thẳng vào vũng rượu nồng đặc đang lênh láng khắp sàn hầm.
+  - Ngọn lửa bốc cháy dữ dội, kích nổ hàng trăm vò rượu đại bồn! Tiếng nổ long trời lở đất đánh sập toàn bộ tửu quán, thiêu rụi toàn bộ toán sát thủ Tú Kim Lâu trong biển lửa cuồn cuộn. Đao Ca đã dùng chính mạng sống của mình để mở ra con đường sống duy nhất cho Thiếu Đông Gia, vĩnh viễn bỏ dở lời hứa cùng thiếu niên phiêu bạt Khai Phong!
+
+#### 6. Khúc Vĩ Thanh: Mộng Cảnh Hoa Đăng Dưới Gốc Cây Thần Tiên Độ
+- Khi khói lửa tàn lụi và ánh bình minh ảm đạm chiếu xuống đống tro tàn hoang phế của Thần Tiên Độ, Thiếu Đông Gia lê từng bước chân nặng trĩu trở về. 
+- Đến dưới gốc cây cổ thụ trơ trụi bên bờ sông, nhân vật nhìn thấy thanh đại đao **Tử Nhân Đao** của Đao Ca đang cắm sâu vào lòng đất, lưỡi đao còn vương vết máu khô. Thiếu Đông Gia quỳ xuống, hai tay ôm lấy chuôi đao bật khóc nức nở.
+- Đúng lúc đó, tần số tâm linh **Hòa Âm** trong cơ thể nhân vật cộng hưởng mãnh liệt với linh khí của thanh đao. Không gian xung quanh bỗng chốc đảo chuyển, đưa Thiếu Đông Gia bước vào một mộng cảnh tuyệt mỹ:
+  - Cánh đồng hoa dại bạt ngàn nở rộ trong gió mát, dòng sông Thần Tiên Độ trong vắt lấp lánh ánh sao đêm.
+  - Bên chiếc bàn gỗ mộc mạc, chú Dao đang tươi cười gắp thức ăn, cô bé Hồng Tuyến mặc chiếc áo đỏ lành lặn đang cười đùa tíu tít, anh Quảng Râu, dì Hàng và đông đủ dân làng đang quây quần nâng chén rượu sum vầy.
+  - Đao Ca ngồi vắt vẻo trên bờ đá, nhấp một ngụm rượu rồi quay lại nhìn Thiếu Đông Gia, nở nụ cười thanh thản hiếm hoi: *"Nhóc con, khóc cái gì? Con đường giang hồ phía trước còn dài lắm. Hãy để đau buồn lại phía sau, mang theo đao của ta mà bước tiếp con đường mà ngươi đã chọn!"*
+  - Hàng ngàn chiếc đèn hoa đăng được thả trôi rực sáng cả khúc sông, cùng màn pháo hoa sắt nóng chảy rực rỡ bung nở trên bầu trời đêm như một lời tiễn biệt viên mãn nhất.
+- Bừng tỉnh giữa thực tại hoang tàn gió lạnh, Thiếu Đông Gia lau khô nước mắt. Nhân vật cúi người nhặt lấy chiếc vòng tay rơi lại của Hồng Tuyến, rút mạnh thanh Tử Nhân Đao đeo lên lưng, siết chặt bức mật thư tìm **"Vô Khuyết"**, một mình cất bước độc hành tiến về thành Khai Phong.
+
+---
+
+## CHƯƠNG II: KHAI PHONG – PHỒN HOA, LIÊN HOÀN KẾ & DÂN SINHợc Đao Ca cõng chạy trốn nhưng đã hy sinh rơi xuống nước mất xác. Đao Ca đến Thần Tiên Độ vừa để tìm dì Hàng lấy kỷ vật, vừa để báo tin dữ cho nàng.
 
 #### 3. Bí Mật Giếng Y Quán, Gã Múa Ngựa Đa Lan & Đao Ca Gặp Dì Hàng
 - **Đụng độ Đao Ca & Mưu mẹo bám đuôi:** Xuống hầm ủ rượu, Thiếu Đông Gia đụng độ Đao Ca. Sau màn giao kiếm bất phân thắng bại, Đao Ca nhận ra chiêu kiếm của Giang Yến nên dừng tay tra hỏi. Thấy gã đao khách cục súc trói mình, Thiếu Đông Gia vờ nghe lời rồi nhanh tay cắt dây trói chạy thục mạng về làng. Đao Ca thực chất cố tình để nhân vật trốn thoát nhằm âm thầm bám đuôi tìm tung tích dì Hàng.
@@ -319,29 +372,50 @@ Quần Anh Hội & Biến cố Sinh Kim Âu                                     
    Thiên Thượng Lai cứu dân       Chu Ngư trúng Mộng Khôi tử trận
 ```
 
-- **Truyền thừa Hà Bá:** Sông Hoàng Hà lưu truyền bí thuật dùng **Long Biến Đan** giúp cá chép hóa rồng trở thành Long Vương bảo vệ thủy đạo. Sau 15 năm, thuốc phát tác làm rồng mất trí, Hà Bá buộc phải tự tay hạ sát bạn đồng hành.
-- **Hà Bá đời 68 Chu Ngư:** Năm 947, khi quân Khiết Đan rút chạy, Chu Ngư lập huyết thệ tiếp nhận chức Hà Bá, chỉ huy Long Vương A Du tạo thủy triều dìm chết hạm đội Khiết Đan. Nàng cùng phu quân **Phùng Di** (ngư dân khổng lồ có tấm lòng lương thiện) lập nên **Giao Long Bang**, dựng thương cảng Thiên Thượng Lai và kết minh với Hậu Chu qua hồi trống **Chiêu Tuyết Cổ** tại Bắc Lãng Sa. Nàng còn cải tiến phương thuốc cứu mạng hàng vạn bá tánh bằng canh thù du.
-- **Cái chết oan khuất năm 960:** Khi lũ lớn ập đến đê Hoàng Hà, tướng Thạch Thủ Tín mải nghênh đón Triệu Khuông Dẫn lên ngôi nên phớt lờ tiếng trống Chiêu Tuyết kêu cứu. Chu Ngư kiệt sức chống lũ, trúng độc Mộng Khôi (Triều Sinh Mộ Lạc từ Ẩn Vụ Lâm) và hy sinh. Thể xác nàng được phong ấn trong quan tài đá dưới đáy sông. Phùng Di nén hận quy phục triều đình để giữ mạng sống cho bang chúng.
-- **Phân liệt bang phái:** Con gái Chu Ngư là **Phùng Như Chi** lập **Xích Long Đường** (tổ chức tỷ võ chiêu thân, bán canh thù du nuôi miệng ăn), đối trọng với **Thanh Giao Đường** của Trương Thác quy phục triều đình.
+- **Truyền thừa 69 đời Hà Bá & Bí thuật Long Biến Đan:** 
+  - Dòng sông Hoàng Hà ngàn năm đỏ nặng phù sa ẩn giấu một bí thuật cổ xưa của thủy tộc: Người giữ chức **Hà Bá** dùng đan dược **Long Biến Đan** mớm cho cá chép khổng lồ tu luyện, giúp cá vượt vũ môn hóa thành **Long Vương (A Du)** để cùng trấn thủ đê điều, bảo vệ thủy lộ. 
+  - Nhưng cái giá phải trả vô cùng tàn khốc: Sau đúng 15 năm, dược lực Long Biến Đan sẽ ăn mòn thần trí khiến Long Vương phát cuồng, biến thành quái thú tàn phá nhân gian. Khi ấy, chính Hà Bá – người bạn đồng hành tri kỷ suốt 15 năm – phải nuốt nước mắt tự tay vung đao kết liễu và hóa kiếp cho Long Vương của mình.
+- **Hà Bá đời thứ 68 Chu Ngư & Huyền thoại Giao Long Bang:**
+  - Năm 947, khi đại quân Khiết Đan cướp phá Trung Nguyên rồi xuôi thuyền rút chạy, nữ hiệp **Chu Ngư** đã lập huyết thệ tiếp nhận chức vị Hà Bá đời 68. Nàng cùng Long Vương A Du hô mưa gọi gió, dâng sóng thần đánh chìm toàn bộ chiến thuyền giặc Khiết Đan dưới đáy sông Hoàng Hà.
+  - Chu Ngư cùng phu quân là **Phùng Di** – một ngư dân có vóc dáng khổng lồ như hộ pháp nhưng tâm tính chất phác, đôn hậu – sáng lập nên **Giao Long Bang**, xây dựng thương cảng **Thiên Thượng Lai** sầm uất cứu giúp hàng vạn nạn dân lưu tán. 
+  - Nàng kết đồng minh sinh tử với triều đình Hậu Chu thông qua tiếng trống trận **Chiêu Tuyết Cổ** đặt tại Bắc Lãng Sa: Hễ có lũ dữ vỡ đê, hồi trống Chiêu Tuyết gióng lên thì quan quân triều đình và nghĩa sĩ Giao Long Bang phải lập tức hợp lực ứng cứu hộ dân. Chu Ngư còn bỏ nhiều năm nghiên cứu cỏ cây, bào chế ra phương thuốc **canh thù du** cứu sống vô số người nghèo mắc bệnh dịch tả đường sông.
+- **Cái chết oan khuất năm 960 & Nỗi đau của Phùng Di:**
+  - Năm Canh Thân (960), đê Hoàng Hà đứng trước nguy cơ vỡ tung do mưa bão lịch sử. Chu Ngư chỉ huy bang chúng ngày đêm đắp đê, dốc sức gióng liên hồi tiếng trống **Chiêu Tuyết Cổ** để cầu viện quan quân. Nhưng tướng giữ thành triều đình là **Thạch Thủ Tín** vì mải mê dốc toàn lực chuẩn bị binh biến Trần Kiều nghênh đón Triệu Khuông Dẫn lên ngôi hoàng đế, đã cố tình phớt lờ tiếng trống kêu cứu của bá tánh.
+  - Trong lúc kiệt sức ngâm mình dưới dòng lũ dữ để chặn lỗ rò thân đê, Chu Ngư bị kẻ gian lén hạ độc trùng Mộng Khôi tàn độc mang tên **Triều Sinh Mộ Lạc** (xuất xứ từ Ẩn Vụ Lâm). Nàng nén đau đớn, dùng chút tàn lực cuối cùng đẩy dân chúng lên bờ rồi kiệt sức hy sinh. 
+  - Để ngăn không cho thi thể vợ bị cổ trùng biến thành quái vật, Phùng Di ôm xác Chu Ngư phong ấn trong quan tài đá nghìn cân thả xuống đáy vực Hoàng Hà. Nuốt hận vào trong, Phùng Di nén nỗi đau thấu trời, chấp nhận quy phục triều đình Tống để bảo toàn sinh mạng cho hàng ngàn huynh đệ bang chúng.
+- **Sự phân liệt của Giao Long Bang:** Sau cái chết của Chu Ngư, nội bộ bang phái rạn nứt sâu sắc: Con gái Chu Ngư là **Phùng Như Chi** căm ghét triều đình đã lập ra **Xích Long Đường**, tổ chức tỷ võ chiêu thân và bán canh thù du nuôi sống người nghèo; đối đầu với **Thanh Giao Đường** của đường chủ Trương Thác chủ trương cúi đầu làm tay sai cho quan phủ.
 
 ---
 
 ### Hồi 6: Đại Án Thường Bình Thương & Nỗi Đau Diệt Môn Của Trịnh Ngạt
 
-- **Thảm sát An Đạt Thôn & Nguồn Cội Thù Hận:** Thuở nhỏ, thiếu chủ **Trịnh Ngạt** cùng em gái **Trịnh Nguyễn** mở kho thóc cứu đói dân làng, kết nghĩa cùng cậu bé nghèo **Thẩm Nghĩa Luân**. Tuy nhiên, lòng tốt ngây thơ của Nghĩa Luân bị người anh ruột Thẩm Nghĩa Nhân lợi dụng, dẫn thổ phỉ đến cướp phá tàn sát cả làng, sát hại dã man bé Trịnh Nguyễn. Dù Chu Ngư xuất hiện cứu sống Trịnh Ngạt và Thẩm Nghĩa Luân, vết thương lòng vĩnh viễn không thể lành.
-- **Mưu Kế "Lý Đại Đào Cương" (Mận Chết Thay Đào):** 
-  - Lớn lên, chứng kiến triều đình nhà Tống đem đất đai tổ tiên họ Trịnh phong thưởng cho chính những kẻ cướp năm xưa đầu hàng, Trịnh Ngạt hoàn toàn hắc hóa. 
-  - Hắn âm thầm liên kết với Túy Hoa Âm và Doanh Doanh, nhờ Hàng Hương Tầm dùng bí thuật dịch dung giả dạng làm Thường Bình Sứ **Thẩm Nghĩa Luân** thật. Hắn giam cầm Nghĩa Luân dưới hang tối, biến cơ quan điều tiết giá lương thực triều đình (**Thường Bình Thương**) thành cỗ máy đầu cơ gạo khổng lồ, bòn rút lương thảo và tuồn Mộng Khôi vào Khai Phong nhằm hủy diệt đô thành trả thù.
-- **Sự Thức Tỉnh Bi Tráng:** Thẩm Nghĩa Luân thật dù bị giam cầm tra tấn tàn khốc nhưng vẫn ôm trọn tấm lòng hối hận vì thảm kịch năm xưa. Nhận ra dã tâm tự hủy của Trịnh Ngạt, Thẩm Nghĩa Luân đã chọn cách tự thiêu cùng hài cốt Trịnh Nguyễn giữa ngọn lửa rực sáng hang sâu, dùng cái chết của mình để chuộc tội và hóa giải tâm ma cho người anh em kết nghĩa.
+- **Thảm sát An Đạt Thôn & Nguồn Cội Thù Hận:**
+  - Thuở hàn vi tại An Đạt Thôn, thiếu chủ giàu lòng trắc ẩn **Trịnh Ngạt** cùng cô em gái nhỏ bé **Trịnh Nguyễn** lén gia đình mở kho thóc cứu đói cho xóm giềng nghèo khó. Tại đây, hai anh em kết nghĩa thân tình cùng cậu bé ăn mày mồ côi **Thẩm Nghĩa Luân**.
+  - Nhưng lòng tốt ngây thơ của Nghĩa Luân đã trở thành thảm họa: Cậu bé vô tình để lộ bí mật kho thóc cho người anh ruột tham lam là Thẩm Nghĩa Nhân. Thẩm Nghĩa Nhân lập tức dẫn băng thổ phỉ khét tiếng ùa vào cướp phá, phóng hỏa thiêu rụi cả thôn trang và sát hại dã man bé Trịnh Nguyễn trước mắt Trịnh Ngạt. Dù Chu Ngư cùng nghĩa sĩ Giao Long Bang kịp thời xuất hiện chém chết lũ cướp và cứu sống hai đứa trẻ, nhưng hình bóng cô em gái nhỏ chết thảm giữa biển máu đã trở thành vết thương vĩnh viễn không thể lành trong tâm hồn Trịnh Ngạt.
+- **Kế Hoạch "Lý Đại Đào Cương" (Mận Chết Thay Đào) Đẫm Máu:**
+  - Nhiều năm sau, triều đình nhà Tống ban lệnh chiêu an, đem chính đất đai tổ tiên họ Trịnh phong thưởng cho những kẻ thổ phỉ cướp làng năm xưa nay đã đầu hàng triều đình. Chứng kiến công lý đảo điên, Trịnh Ngạt hoàn toàn phát điên và rơi vào hắc đạo.
+  - Hắn âm thầm liên minh với Túy Hoa Âm, lợi dụng thuật dịch dung tuyệt đỉnh của Hàn Hương Tầm (dì Hàng) để hoán đổi thân phận: Hắn bắt cóc Thường Bình Sứ **Thẩm Nghĩa Luân** thật, giam cầm dưới hang tối tăm, còn bản thân đóng giả làm Thẩm Nghĩa Luân cai quản cơ quan điều tiết giá lương thực triều đình (**Thường Bình Thương**).
+  - Trịnh Ngạt biến kho thóc của triều đình thành cỗ máy đầu cơ độc quyền tàn nhẫn: đầu cơ tích trữ đẩy giá gạo lên trời, tuồn độc dược Mộng Khôi vào các bao gạo cứu tế nhằm đầu độc cả kinh thành Khai Phong để chôn vùi triều đại mà hắn căm thù.
+- **Sự Thức Tỉnh Bi Tráng Giữa Hang Lửa:**
+  - Thiếu Đông Gia lần theo dấu vết tìm vào mật thất ngầm. Tại đây, Thẩm Nghĩa Luân thật dù bị giam cầm, gãy nát hai chân và chịu tra tấn dã man suốt nhiều tháng, nhưng trong lòng chỉ ôm trọn một niềm hối hận khôn nguôi vì sai lầm thơ ấu đã hại chết gia đình người anh em kết nghĩa.
+  - Khi Trịnh Ngạt châm lửa toan thiêu rụi toàn bộ mật thất cùng số gạo độc, Thẩm Nghĩa Luân thật đã dùng chút sức tàn bò tới ôm chặt lấy chiếc hòm chứa hài cốt của bé Trịnh Nguyễn. Giữa biển lửa bốc cháy ngùn ngụt, Thẩm Nghĩa Luân mỉm cười thanh thản, cất giọng vang vọng: *"Trịnh ca... Mạng này là đệ nợ muội muội, hôm nay đệ xin trả lại cho ca..."*.
+  - Nhìn người anh em kết nghĩa tự thiêu trong biển lửa để chuộc tội, Trịnh Ngạt sụp đổ hoàn toàn. Hắn quỳ sụp xuống nền đá nóng rực gào khóc trong tuyệt vọng, nhận ra ngọn lửa thù hận mù quáng chỉ thiêu rụi chính bản thân mình và những người yêu thương nhất.
 
 ---
 
 ### Hồi 7: Bi Kịch Ngũ Nha Đại Hạm & Tướng Quân Dung Viên
 
-- **Ngũ Nha Đại Hạm Biệt Ca:** 
-  - Tướng quân **Dung Viên** (vị tướng xuất hiện tại Quần Anh Hội Phàn Lâu) là thống soái chiến hạm khổng lồ **Ngũ Nha** chấn thủ thủy đạo Khai Phong. 
-  - Ông sinh ra trong danh môn vọng tộc quân nhân nhiều đời trung liệt, nhưng dòng họ liên tục bị nghi kỵ, bức hại qua các triều đại đổi ngôi thời Ngũ Đại. Nhìn thấy quan trường thối nát, quân đội bị thao túng bởi những âm mưu chính trị bẩn thỉu và đồng bào bị bần cùng hóa, Dung Viên lâm vào bế tắc tuyệt vọng tột cùng giữa lòng trung và nỗi đau thời thế.
-  - Trong biến cố trên dòng Hoàng Hà, Dung Viên đã kích hoạt hỏa pháo tự bạo cùng chiếc soái hạm Ngũ Nha rực cháy giữa dòng nước xiết, thà chôn thân cùng chiến hạm chứ không cam chịu làm con tốt thí cho mưu đồ đoạt quyền của triều đình. Cái chết bi hùng của ông là một nốt trầm bi tráng về số phận của các danh tướng thời loạn.
+- **Huyền Thoại Chiến Hạm Ngũ Nha:** 
+  - Chiến hạm khổng lồ **Ngũ Nha** với 5 tầng lầu cao vút, trang bị máy bắn đá cơ quan và hỏa tiễn liên hoàn, là kỳ quan thủy chiến ngự trị trên dòng Hoàng Hà, do danh tướng **Dung Viên** (vị tướng uy nghi từng xuất hiện tại Quần Anh Hội Phàn Lâu) làm thống soái chấn thủ thủy đạo Biện Kinh.
+- **Nỗi Đau Danh Môn Thời Loạn:**
+  - Tướng quân Dung Viên sinh ra trong một danh gia vọng tộc quân nhân nhiều đời trung liệt, từng đổ máu dưới trướng nhiều triều đại thời Ngũ Đại Thập Quốc. Nhưng bi kịch của gia tộc ông là luôn bị các hoàng đế mới nghi kỵ, bức hại và thanh trừng vì sợ binh quyền.
+  - Khi giáp mặt triều đình nhà Tống, chứng kiến chốn quan trường tranh quyền đoạt lợi bẩn thỉu, quân đội biến thành công cụ đàn áp bá tánh nghèo hèn, Dung Viên rơi vào sự bế tắc và giằng xé nội tâm tột cùng giữa lòng trung quân ái quốc và sự ghê tởm thời cuộc thối tha.
+- **Khúc Biệt Ca Giữa Dòng Nước Xiết:**
+  - Trong một âm mưu hãm hại chính trị, triều đình ép Dung Viên phải nổ súng đánh chìm các thuyền bè chở lưu dân tị nạn trên sông Hoàng Hà để ngăn chặn dịch bệnh tràn vào kinh thành.
+  - Đứng trên boong chiến hạm lộng gió, Dung Viên tuốt gươm nhìn hàng vạn người dân đang co quắp kêu cứu trên sông. Ông kiên quyết kháng lệnh triều đình, ra lệnh mở toàn bộ kho lương thực trên hạm đội cứu tế nhân dân.
+  - Khi hạm đội của quan binh chấp pháp ập đến bao vây định bắt sống ông để xử tội tru di tam tộc, tướng quân Dung Viên đã ngửa mặt lên trời cười vang một tiếng bi tráng. Ông cầm đuốc lao vào kho thuốc súng của soái hạm, tự tay kích hoạt hỏa pháo:
+    > *"Dung gia đời đời trung dũng, kiếm của Dung Viên này chỉ chém giặc ngoại xâm bảo vệ sơn hà, tuyệt đối không vấy máu đồng bào!"*
+  - Tiếng nổ long trời lở đất vang rền trên dòng Hoàng Hà. Chiến hạm Ngũ Nha khổng lồ bốc cháy ngùn ngụt rồi chìm dần xuống lòng sông đỏ nặng phù sa. Tướng quân Dung Viên đã chọn cách tự bạo cùng chiếc soái hạm kiêu hãnh của mình, thà chôn thân dưới đáy sông sâu chứ nhất quyết không cam chịu làm con tốt thí cho mưu đồ quyền lực bẩn thỉu của triều đình.
 
 ---
 
@@ -669,61 +743,120 @@ Vách Than Thở & "Gà Kế Thăng"                                            
 
 ### Hồi 5: Gác Thiên Công, Kiếm Khách Tư Nam & Thiên Tai Nhân Họa (天灾人祸)
 
-#### 1. Đột Nhập Gác Thiên Công & Trận Pháp Đại Diễn
-- Tổ chức phản đồ ngoại đạo **Thầy Khốn Kỳ** do **Kiếm khách Tư Nam** cầm đầu liên tục đánh bom phá hoại các ngả đường vào Bất Kiến Sơn, ép buộc Mặc Sơn Đạo phải giao nộp Vàng Đen và phương thức Phục Hỏa.
-- Tấn công tử vì mưu đồ riêng đã lén đột nhập vào **Gác Thiên Công** – nơi cất giữ các bảo vật cơ quan ngàn năm và trận pháp **Đại Diễn** (mê cung xoay chuyển liên tục dùng để khảo hạch Cự Tử).
-- Thiếu Đông Gia kịp thời tiếp ứng, phá giải trận pháp Đại Diễn xoay chuyển ảo diệu, tiến vào mật thất cứu Tấn công tử đang bị Kiếm khách Tư Nam khống chế.
+#### 1. Đột Nhập Gác Thiên Công & Trận Pháp Đại Diễn Xoay Chuyển
+- Để bảo vệ bí mật cơ quan ngàn năm, Mặc Sơn Đạo thiết lập **Gác Thiên Công** ngay tại hiểm địa hiểm trở nhất của Bất Kiến Sơn. Bên trong gác là **Đại Diễn Mê Trận** – cỗ máy trận pháp khổng lồ vận hành bởi hàng ngàn bánh răng bằng đồng thau và đá hoa cương, chuyển động không ngừng theo quy luật bát quái dịch số. Đây vừa là kho tàng lưu giữ thư tịch cổ và mẫu vật Vàng Đen, vừa là khảo hạch tối thượng dành cho các đời Cự Tử.
+- Lợi dụng lúc môn phái rối ren, Tấn công tử (**Triệu Quang Nghĩa**) vì tham vọng thâu tóm kỹ nghệ chế tạo vũ khí cho triều đình Tống đã bí mật lẻn vào Gác Thiên Công. Tuy nhiên, hắn lập tức bị cuốn vào vòng xoáy cạm bẫy của Đại Diễn Mê Trận và rơi vào tay thủ lĩnh tổ chức ngoại đạo Thầy Khốn Kỳ – **Kiếm khách Tư Nam**.
+- Nhận được tin báo, Thiếu Đông Gia lao mình vào Gác Thiên Công. Không gian bên trong rung chuyển dữ dội bởi những trục xoay nghìn cân, sàn đá liên tục phân tách tạo thành những vực sâu thăm thẳm. Bằng khả năng quan sát nhạy bén và ngộ tính thuật số kế thừa từ chuyến bay "Gà Kế Thăng", Thiếu Đông Gia từng bước gạt chốt cơ quan, nhảy qua các trục bánh răng đang nghiến rít tóe lửa để tiến vào mật thất tầng cao nhất, kịp thời rút kiếm cản phá lưỡi sát phong của Tư Nam đang kề sát cổ Tấn công tử.
 
 #### 2. Chân Tướng Bàng Hoàng: Tư Nam Chính Là Chim Cắt
-- Thiếu Đông Gia giao chiến quyết liệt, đánh lui kiếm thuật hiểm độc của Tư Nam. Yến Cự Tử xuất hiện can ngăn.
-- Trong khoảnh khắc đối mặt, lớp mặt nạ rơi xuống hé lộ sự thật tàn khốc: **Kiếm khách Tư Nam chính là Chim Cắt** – người em trai thất lạc ngỡ đã chết trong vụ nổ 3 năm trước!
-- Sống sót sau thảm họa với cơ thể tàn tạ *"người không ra người, quỷ không ra quỷ"*, Chim Cắt đã hoàn toàn tha hóa tâm tính, ôm mối hận thù điên cuồng đòi đoạt lại Vàng Đen để chứng minh con đường của mình. Hắn kích nổ cơ quan tẩu thoát trong làn khói độc.
-- Tại nơi ẩn náu, Tư Nam thương tích đầy mình bất ngờ bị một kẻ bí ẩn điểm huyệt áp giải về Tú Kim Lâu – hé lộ bàn tay thao túng hắc ám của nữ ma đầu **Thiên Dạ**.
+- **Trận đấu kiếm quỷ dị:** Kiếm khách Tư Nam không dùng kiếm thuật chính tông của Mặc Gia mà thi triển một loại tà kiếm hung bạo, sắc lạnh, mỗi chiêu thức đều mang sát khí cuồng loạn muốn đồng quy vu tận. Thiếu Đông Gia vận dụng kiếm pháp biến hóa kết hợp thân pháp Hòa Âm lách qua các góc chết, tạo thế gọng kìm ép Tư Nam vào góc cột đồng.
+- Đúng lúc thanh kiếm của Thiếu Đông Gia hất văng bội kiếm của Tư Nam, tiếng xe lăn cơ quan gấp gáp vang lên: **Yến Cự Tử** đẩy cửa xông vào, cất giọng lạc đi: *"Dừng tay! Tư Nam... không, chẳng lẽ là đệ sao?!"*
+- Một đường kiếm xé gió của Thiếu Đông Gia vô tình phạt đứt dải băng đen che mặt của Tư Nam. Tấm vải rơi xuống, để lộ gương mặt trần trụi dưới ánh đuốc chập chờn: Nửa khuôn mặt bên phải bị lửa thiêu co rúm, sẹo lồi lõm chằng chịt, một bên mắt đã bị khoét rỗng thay bằng nhãn cầu cơ quan bằng gỗ tiện khắc tinh vi. Nhưng nửa khuôn mặt còn lại, từng đường nét thanh tú và nụ cười ngây thơ của **Chim Cắt** – người em trai ruột ngỡ đã vùi thây trong Đêm Sao Rơi 3 năm trước – hiện ra rõ mồn một!
+- **Nỗi đau xé lòng giữa hai anh em:**
+  - Yến Cự Tử run rẩy muốn đứng dậy từ chiếc xe lăn nhưng đôi chân tàn phế khiến nàng ngã nhào xuống sàn đá, hai tay bò về phía em trai, nước mắt giàn giụa: *"Chim Cắt... đệ còn sống thật sao? Ba năm qua đệ đã ở đâu? Sao lại biến thành nông nỗi này?!"*
+  - Chim Cắt lùi lại một bước, ánh mắt tràn ngập thống khổ và căm phẫn tột cùng. Hắn cười gằn, giọng khàn đặc như kim loại ma sát: *"Sống ư? Huynh nhìn xem ta có giống một con người còn sống không?! Ba năm trước cỗ máy Thành Phi Thiên nổ tung, huynh liệt hai chân nhưng vẫn là bậc Cự Tử cao cao tại thượng được người người kính ngưỡng! Còn ta? Ta bị vùi dưới đống tro tàn, thịt nát xương tan, phải chịu tà thuật chắp vá thân thể sống dở chết dở! Mặc Môn với cái gọi là 'Kiêm Ái' rốt cuộc đã cứu được ai?!"*
+  - Chim Cắt gầm lên, vạch trần việc hắn gia nhập Thầy Khốn Kỳ và cấu kết với Tú Kim Lâu chỉ để đoạt lại toàn bộ Vàng Đen, chứng minh rằng chỉ có sức mạnh hủy diệt mới bảo vệ được chính mình.
+- Dứt lời, Chim Cắt ném mạnh một quả pháo khói lân tinh xuống đất. Khói độc mù mịt bùng lên, che mắt mọi người. Khi làn khói tan đi, Chim Cắt đã biến mất qua lối thoát hiểm bí mật trên đỉnh tháp.
+- **Bàn tay hắc ám của Tú Kim Lâu:** Kiệt sức sau trận chiến, Chim Cắt lảo đảo ôm vết thương chạy vào một cánh rừng tuyết hoang phế ngoài rìa thung lũng. Hắn gục ngã bên một gốc tùng cổ thụ, máu đen rỉ ra từ kẽ hở của mắt cơ quan. Bất ngờ, một bóng đen yểu điệu từ trên ngọn cây nhẹ nhàng đáp xuống tuyết mà không phát ra một tiếng động. Trước khi Chim Cắt kịp trở tay, ngón tay thon dài sơn móng đỏ thẫm của ả đã điểm chuẩn xác vào tử huyệt sau gáy hắn. Kẻ đó chính là mật sứ thân cận của **Thiên Dạ**. Ả nở nụ cười ma mị, vác thân thể bất tỉnh của Chim Cắt lên vai, lướt đi trong gió tuyết hướng về doanh trại bí mật của Tú Kim Lâu.
 
-#### 3. Thiên Tai Nhân Họa (天灾人祸): Bão Tuyết Phong Sơn & Mặc Môn Nguy Khốn
-- Mùa đông khắc nghiệt ập đến, bão tuyết phong tỏa toàn bộ Bất Kiến Sơn. Cơ quan Hộ Sơn tại Vách Than Thở bị phá hủy hoàn toàn khiến màn sương mù che chắn Đào Hoa Nguyên tan biến, ngọn núi ngàn năm biệt lập phơi bày trước mắt thiên hạ.
-- **Thảm cảnh lưu dân & Ngoại địch áp sát:** Hàng vạn nạn dân đói rét từ bên ngoài ùa vào lánh nạn; kéo theo đó là quan binh triều đình Tống lăm le cướp đoạt cơ quan thuật số, cùng lũ mật thám Tú Kim Lâu lùng sục Vàng Đen và dấu vết của Lạc Thần (dì Hàng).
-- **Mâu thuẫn tư tưởng phân liệt:** Sơn môn rơi vào cảnh nội ưu ngoại hoạn chưa từng có:
-  - *Phe Cự Tử Yến:* Kiên định giữ vững lý tưởng *"Kiêm Ái, Phi Công"*, mở kho cứu tế, chia sẻ than đá và lương thực cho lưu dân cùng các đệ tử nghèo khổ như Tiểu Lôi.
-  - *Phe Bằng Trưởng Lão (鹏长老):* Cho rằng lòng tốt mù quáng sẽ dẫn đến diệt vong, chủ trương trục xuất người ngoài, tái vũ trang cơ quan để chuẩn bị nhập thế xưng hùng trong loạn thế.
+#### 3. Thiên Tai Nhân Họa (天灾人祸): Bão Tuyết Phong Sơn & Rạn Nứt Môn Phái
+- Biến cố Gác Thiên Công chưa dứt thì thảm họa thiên nhiên ập xuống: Một trận bão tuyết cuồng bạo trăm năm chưa từng có bao trùm toàn bộ rặng Bất Kiến Sơn. Băng giá nghìn cân đóng chặt các guồng nước cơ quan, khiến hệ thống ròng rọc phòng thủ tại Vách Than Thở đứt gãy từng mảng lớn, rơi xuống vực sâu ầm ầm như sấm rền.
+- Màn sương mù trận pháp ngàn năm che chở Đào Hoa Nguyên hoàn toàn tiêu tán trong gió lốc, phơi bày chốn bồng lai biệt lập trước mắt thiên hạ.
+- **Làn sóng lưu dân & Ngoại địch áp sát:**
+  - Hàng vạn nạn dân từ vùng chiến sự Tương Châu và Trạch Châu đói rét, co quắp lết qua tuyết dày tràn vào thung lũng cầu xin một con đường sống. Cảnh tượng thê thảm diễn ra khắp nơi: Người mẹ ôm xác đứa con đã chết cóng, người già quỳ lạy trước cổng đá xin một bát cháo loãng.
+  - Theo chân dòng người tị nạn là quan binh triều đình Tống lăm le kéo đại bác cơ quan áp sát nhằm chiếm đoạt kho Vàng Đen, cùng lũ mật thám Tú Kim Lâu trà trộn săn lùng danh sách mật thám và dấu vết của Lạc Thần (dì Hàng).
+- **Tranh cãi nảy lửa tại Nghị Sự Đường:**
+  - **Bằng Trưởng Lão (鹏长老)** đập bàn quát tháo dữ dội: *"Đào Hoa Nguyên không phải trại tế bần! Lương thực trong kho chỉ đủ cho đệ tử Mặc Môn dùng trong ba tháng đông. Nếu mở cửa cứu giúp lũ tiện dân kia, tất cả chúng ta sẽ cùng chết đói! Phải lập tức kích hoạt bẫy nỏ, tống khứ toàn bộ người ngoài ra khỏi sơn môn!"*
+  - **Yến Cự Tử** dằn từng tiếng, ánh mắt kiên định dù sắc mặt tái nhợt: *"Tôn chỉ lập phái của Mặc Gia là 'Kiêm Ái, Phi Công'. Thấy chết không cứu, trơ mắt nhìn đồng bào chết rét ngoài cửa thì đạo nghĩa Mặc Môn còn có ý nghĩa gì?! Nếu vì mạng sống của bản thân mà vứt bỏ nhân tính, Mặc Sơn Đạo thà diệt vong còn hơn!"*
+  - Yến Cự Tử ra lệnh mở toang kho dự trữ của chính mình, phân phát chăn ấm, cùng chú bé Tiểu Lôi chắt chiu từng gùi than đá mang đến sưởi ấm cho các trại lưu dân.
+  - Nhận thấy không thể thuyết phục được Cự Tử, Bằng Trưởng Lão cùng đồ đệ tâm phúc **Linh Nhi (鸰儿)** ngấm ngầm rút lui, chuẩn bị cho một kế hoạch tàn khốc và điên cuồng hơn gấp bội.
 
 ---
 
-### Hồi 6 (Đại Kết Cục Bất Kiến Sơn): Trụy Nhật Chử Hải (坠日煮海), Đại Chiến Thiên Dạ & Phân Liệt Mặc Môn
+### Hồi 6 (Đại Kết Cục Bất Kiến Sơn): Trụy Nhật Chử Hải (坠日煮海), Đại Chiến Thiên Dạ & Phân Cảnh Chấn Động Giữa Dì Hàng Và Thiên Dạ
 
 ```
-Bão tuyết phong sơn ──► Cơ quan Hộ Sơn sụp đổ ──► Bằng Trưởng Lão khởi động tàn thể Thành Phi Thiên
-                                                               │
-                 ┌─────────────────────────────────────────────┴────────────────────────────────┐
-                 ▼                                                                              ▼
-     TRỤY NHẬT CHỬ HẢI (Ô Kim bạo phát)                                          ĐẠI CHIẾN TÚC ĐỊCH THIÊN DẠ
-  - Cự Tử Yến cho nổ núi phá Đại Diễn Mê Trận                                   - Thân thế Đoàn gia & Song tử dược dẫn
-  - Mở toang sơn môn Bất Kiến Sơn                                               - Dì Hàng dịch dung thế chỗ thâm nhập
-                                                                                - Mặc Môn phân liệt 2 phái
+Bão tuyết phong sơn ──► Bằng Trưởng Lão cưỡng ép khởi động lò Ô Kim ──► Khối cầu lửa khổng lồ quá tải
+                                                                               │
+                 ┌─────────────────────────────────────────────────────────────┴────────────────────────────────────────────────┐
+                 ▼                                                                                                              ▼
+     TRỤY NHẬT CHỬ HẢI & NỔ NÚI MỞ SƠN MÔN                                                                     ĐẠI HUYẾT CHIẾN NỮ MA ĐẦU THIÊN DẠ
+  - Cự Tử Yến bẻ gãy trục chuyển động, nổ tung vách đá                                                         - Chuyển đổi Hắc - Bạch Song Thái & ảo ảnh dịch dung
+  - Đại Diễn Mê Trận sụp đổ, Bất Kiến Sơn mở toang                                                             - Đòn kết liễu của Thiếu Đông Gia giữa tro tàn lửa đỏ
+                                                                                                                                │
+                                                                                                                                ▼
+                                                                                                               PHÂN CẢNH CHẤN ĐỘNG DÌ HÀNG - THIÊN DẠ
+                                                                                                               - Chạm vào nhịp đập quả tim của người em trai
+                                                                                                               - Màn dịch dung thế chỗ Thiên Dạ bước vào Tú Kim Lâu
+                                                                                                               - Lời dặn dò Thiếu Đông Gia lên đường vào Giang Nam
 ```
 
-#### 1. Âm Mưu Bằng Trưởng Lão & Nguy Cơ "Trụy Nhật Chử Hải"
-- Để hiện thực hóa tham vọng phục hưng Mặc Môn và đối đầu ngoại địch, **Bằng Trưởng Lão** cùng đệ tử **Linh Nhi (鸰儿)** đã âm thầm giở trò, dùng kế ly gián lừa gạt cả Thiên Dạ lẫn môn đồ, cưỡng ép tái khởi động lò năng lượng Ô Kim bên trong tàn thể **Thành Phi Thiên** trên đỉnh núi cao.
-- Tuy nhiên, cấu trúc cơ quan rệu rã sau thảm họa Đêm Sao Rơi không thể chịu nổi nhiệt lượng cực hạn của thuật Phục Hỏa. Lò luyện Ô Kim quá tải nghiêm trọng, biến cỗ máy hình chim khổng lồ thành một khối cầu lửa rực sáng đỏ rực bầu trời đêm tựa như *"Mặt trời rơi xuống đun sôi cả biển cả"* (**Trụy Nhật Chử Hải**), đe dọa phát nổ san phẳng toàn bộ Bất Kiến Sơn và thiêu rụi vạn sinh linh thành tro bụi.
+#### 1. Âm Mưu Bằng Trưởng Lão & Thảm Họa "Trụy Nhật Chử Hải" (坠日煮海)
+- Ôm mộng đưa Mặc Môn trở thành bá chủ thiên hạ trong thời loạn thế, Bằng Trưởng Lão và Linh Nhi đã lén lút vận chuyển toàn bộ khối Vàng Đen (Ô Kim) thượng hạng còn sót lại lên đỉnh Thiên Trụ Phong – nơi neo đậu tàn thể hoang phế của cỗ máy khổng lồ **Thành Phi Thiên**.
+- Bằng Trưởng Lão muốn dùng bí thuật Phục Hỏa cưỡng ép kích hoạt lại động cơ bay, đưa nhóm đệ tử nòng cốt của mình bay lên không trung trốn thoát khỏi vòng vây của bão tuyết và lưu dân, nhập thế phụng sự các tập đoàn quân phiệt phương Nam.
+- **Thảm họa nổ lò:** Khung xương cơ quan bằng gỗ và đồng thau của Thành Phi Thiên vốn đã rạn nứt nghiêm trọng sau vụ nổ 3 năm trước, hoàn toàn không thể dung nạp nổi nhiệt lượng khủng khiếp sinh ra từ phản ứng Ô Kim. Lò luyện trung tâm bốc cháy ngùn ngụt, ngọn lửa ma quái màu xanh lam chuyển dần sang đỏ rực như máu.
+- Cả cỗ máy hình chim khổng lồ biến thành một khối cầu lửa rực sáng chói lòa cả màn đêm Bất Kiến Sơn. Nhiệt lượng tỏa ra thiêu đốt không khí, làm tan chảy băng tuyết trên các đỉnh núi cao thành những dòng lũ bùn cuồn cuộn. Cảnh tượng hãi hùng như thể **"Mặt trời rơi xuống đun sôi cả biển cả" (Trụy Nhật Chử Hải)**, đe dọa phát nổ san phẳng toàn bộ sơn môn và thiêu sống hàng vạn sinh linh trong thung lũng thành tro bụi.
 
-#### 2. Quyết Định Bước Ngoặt Của Yến Cự Tử & Cú Nổ Phá Sơn Môn
-- Trước thảm họa diệt môn cận kề, Yến Cự Tử ngồi trên xe lăn đã đưa ra một quyết định quả cảm làm thay đổi vĩnh viễn vận mệnh Mặc gia: *Không thể tiếp tục trốn tránh trong ốc đảo Đào Hoa Nguyên giả tạo!*
-- Nàng phối hợp cùng Thiếu Đông Gia xông thẳng vào tâm chấn Thành Phi Thiên. Bằng thuật toán cơ quan tuyệt đỉnh, Yến Cự Tử điều hướng luồng nổ năng lượng Ô Kim đâm thẳng vào mạch đá hiểm trở, chủ động cho nổ tung vách núi, phá hủy triệt để **Đại Diễn Mê Trận** đã giam hãm Mặc Sơn Đạo suốt ngàn năm qua.
-- Tiếng nổ long trời lở đất vang rền, tàn thể Thành Phi Thiên gãy cánh rơi rụng tan tành giữa biển lửa. Mê trận sụp đổ, cửa núi Bất Kiến Sơn chính thức mở toang trước ánh sáng mặt trời và gió bụi giang hồ.
+#### 2. Quyết Định Bước Ngoặt Của Yến Cự Tử: Cho Nổ Vách Núi Phá Sơn Môn
+- Giữa tiếng còi báo động gầm rú và tiếng la khóc hoảng loạn của dân chúng, Yến Cự Tử ngồi trên xe lăn, mái tóc tung bay trong luồng gió nóng nghẹt thở. Nàng nhìn Thiếu Đông Gia, ánh mắt kiên định không hề có chút sợ hãi:
+  > *"Thiếu Đông Gia! Mặc Môn trốn tránh trong thung lũng này ngàn năm, tự huyễn hoặc mình bằng ảo mộng Đào Hoa Nguyên, nhưng bức tường đá kiên cố nhất cũng không ngăn nổi lòng tham và khổ đau của trần thế. Hôm nay, ta không cứu cỗ máy chim gỗ này nữa. Ta muốn phá tan chiếc lồng giam này để cứu lấy con người!"*
+- Thiếu Đông Gia lập tức đẩy xe lăn đưa Yến Cự Tử xông thẳng vào tâm chấn rực lửa của Thành Phi Thiên, vượt qua những thanh xà gồ đang sụp đổ và những vòi rồng lửa quét ngang.
+- Với trí tuệ số học siêu phàm, Yến Cự Tử dùng gậy sắt chọc thẳng vào bánh răng định hướng, bẻ gãy then cài cơ quan của bộ phận đẩy phản lực, ép luồng nổ năng lượng Ô Kim phóng thẳng vào **Huyệt Long Mạch** – vách đá hiểm trở nhất ngàn năm che chắn cửa ngõ Bất Kiến Sơn.
+- **Cú nổ kinh thiên động địa:**
+  - Tiếng nổ vang rền như vỡ trời lở đất xé toạc màn đêm! 
+  - Khối cầu lửa bùng phát đánh sập hoàn toàn tàn thể Thành Phi Thiên, nghiền nát cỗ máy ngàn năm thành tro tàn rơi rụng lả tả.
+  - Sóng xung kích khổng lồ đánh sập toàn bộ dãy vách đá che chắn, phá hủy triệt để **Đại Diễn Mê Trận** ngàn năm! Cửa núi Bất Kiến Sơn chính thức mở toang ra thế giới bên ngoài, đón nhận ánh bình minh rạng rỡ đầu tiên xua tan giá lạnh bão tuyết.
 
-#### 3. Đại Chiến Túc Địch Thiên Dạ & Bí Mật "Song Tử Dược Dẫn"
-- Giữa đống tro tàn rực lửa của Thành Phi Thiên rơi xuống, túc địch truyền kiếp **Thiên Dạ (千夜)** bất ngờ xuất hiện chặn đường.
-- **Thân thế bi kịch của Thiên Dạ:** Ả lộ diện thân thế thực sự là đại tiểu thư tôn quý của danh gia họ Đoàn. Ngay từ thuở ấu thơ, ả đã bị biến thành **"song tử dược dẫn"** trong thí nghiệm tàn bạo của Tú Kim Lâu: cơ thể bị phẫu thuật cấy ghép dị biến, dung nạp cổ trùng Mộng Khôi trường sinh dẫn đến tâm trí phân liệt thành hai nhân cách đối nghịch (**Thiên Dạ Song Hồn** – một linh hồn tàn độc lạnh lùng và một linh hồn khao khát tình thương). Ả sống trong nỗi đau đớn thể xác triền miên và biến hận thù thành ngọn lửa tàn sát nhân thế.
-- Thiếu Đông Gia bước vào trận quyết đấu sinh tử đỉnh cao giữa biển lửa tàn tích. Bằng kiếm pháp tôi luyện qua bao biến cố và sự thức tỉnh của bản ngã Hòa Âm, nhân vật phá giải toàn bộ ảo mộng ma quái của Thiên Dạ, tung đòn quyết định đánh gục nữ ma đầu.
+#### 3. Đại Huyết Chiến Nữ Ma Đầu Thiên Dạ (Trận Quyết Đấu Đỉnh Cao)
+- Khói lửa chưa kịp tan, từ đống tro tàn rực đỏ của Thành Phi Thiên rơi xuống, một bóng người chậm rãi bước ra. Đó chính là túc địch truyền kiếp – **Thiên Dạ (千夜)**. Ả khoác trường bào lụa đen thêu chỉ vàng lộng lẫy nhưng đã tả tơi vì vụ nổ, mái tóc dài xõa tung bay phần phật, trên tay cầm cặp song nhận uốn lượn như rắn độc.
+- **Bí mật Song Tử Dược Dẫn & Hai Linh Hồn:**
+  - Thiên Dạ gầm lên một tiếng the thé rợn người. Cơ thể ả bắt đầu co giật, tĩnh mạch tím đen nổi phồng lên khắp cổ và gương mặt. 
+  - Ả chính là đại tiểu thư dòng dõi họ Đoàn bị Tú Kim Lâu biến thành vật thí nghiệm sống ("dược dẫn"). Tà thuật cấy ghép nội tạng và độc trùng Mộng Khôi đã xé rách linh hồn ả thành hai nửa đối nghịch: Một bên là ác ma khát máu muốn hủy diệt cả nhân gian, một bên là cô gái nhỏ yếu đuối luôn khóc lóc cầu xin được giải thoát.
+- **Diễn biến trận chiến sinh tử (Hắc - Bạch Song Thái):**
+  - **Bạch Thái (Mộng Ảo Ma Trận):** Thiên Dạ vung tay, hàng trăm sợi tơ bạc Mộng Khôi sắc lẹm giăng kín chiến trường. Ả di chuyển thoắt ẩn thoắt hiện như bóng ma, liên tục phóng ra những ảo ảnh đánh lừa thị giác. Trong khoảnh khắc tàn khốc, ả bất ngờ thi triển thuật dịch dung biến gương mặt mình thành chính **khuôn mặt của Thiếu Đông Gia**, cất giọng khiêu khích: *"Ngươi nhìn xem, ngươi và ta có khác gì nhau? Đều là những con rối bị số phận giật dây!"*
+  - **Hắc Thái (Cuồng Nộ Huyết Sát):** Khi Thiếu Đông Gia dùng kiếm khí xé toạc mạng nhện tơ bạc, Thiên Dạ gầm thét chuyển sang trạng thái cuồng loạn. Khí tức độc trùng màu tím thẫm bốc lên ngùn ngụt, song nhận của ả chém ra những luồng đao phong mang theo chất độc gặm nhấm xương tủy, cày xới mặt đất thành những rãnh sâu hoắm.
+- **Chiêu thức định mệnh:** 
+  - Đứng trước bờ vực sinh tử, Thiếu Đông Gia nhắm nghiền hai mắt, lắng nghe "tiếng thì thầm của gió" – bản ngã Hòa Âm từng được tôi luyện qua ngàn dặm cát vàng An Tây và ảo cảnh Tần Xuyên bừng tỉnh. 
+  - Nhân vật cảm nhận được tiếng đập loạn xạ, đau đớn và lạc lõng sâu kín phát ra từ lồng ngực đối thủ. Nắm bắt được sơ hở duy nhất trong khoảnh khắc chuyển đổi trạng thái của ả, Thiếu Đông Gia mở mắt, thân hình hóa thành một đạo cầu vồng xé gió, tung tuyệt kỹ đao kiếm hợp nhất đâm xuyên qua hộ thể cương khí của Thiên Dạ!
+  - Máu tươi phun trào nhuộm đỏ nền tuyết trắng, Thiên Dạ ngã quỵ xuống đống tro tàn của Thành Phi Thiên, thở dốc trong đau đớn cùng cực.
 
-#### 4. Màn Dịch Dung Của Dì Hàng & Tương Lai Phân Liệt Của Mặc Môn
-- **Dì Hàng (Lạc Thần) ra tay:** Ngay sau khi Thiên Dạ trọng thương ngã xuống, **dì Hàng** bất ngờ xuất hiện từ trong bóng tối. Với bí thuật dịch dung tuyệt thế, dì Hàng đã kịp thời hoán đổi thân phận, cải trang thành chính Thiên Dạ. Hành động này không chỉ giúp dì thâm nhập sâu vào nội bộ cấp cao Tú Kim Lâu để truy tìm thuốc giải Mộng Khôi, mà sâu thẳm trong tim, nàng muốn ở bên bảo bọc thân xác đang mang **quả tim của người em trai ruột thịt** mà nàng ôm ân hận suốt cuộc đời.
-- **Mặc Môn Phân Liệt Hai Ngả Đường:**
-  - *Nhánh Yến Cự Tử:* Ở lại Bất Kiến Sơn đổ nát, cùng Tiểu Lôi và các đệ tử lương thiện tái thiết sơn môn trên đống tro tàn, dùng cơ quan thuật chế tạo nông cụ, cày cấy dẫn nước giúp đỡ lưu dân, thực thi trọn vẹn tinh thần *"Kiêm Ái, Phi Công – Khoa học vị nhân sinh"*.
-  - *Nhánh Bằng Trưởng Lão:* Cùng những môn đồ ôm mộng quyền lực rời khỏi núi sâu, mang theo vũ khí cơ quan thuật số nhập thế, dấn thân vào guồng quay tranh bá đoạt vị của các chư hầu thời Ngũ Đại Thập Quốc.
-- **Khúc Vĩ Thanh Lên Đường Xuống Phía Nam:** 
-  - Đứng trên đỉnh Bất Kiến Sơn lộng gió nhìn ánh bình minh rạng ngời chiếu rọi vùng đất mới mở toang, Thiếu Đông Gia từ biệt Yến Cự Tử. 
-  - Mang theo chiếc áo/vòng tay của Hồng Tuyến, thanh đao của Đao Ca và tung tích mới về dì Hàng nơi Tú Kim Lâu, Thiếu Đông Gia chính thức cất bước xuôi về phương Nam – tiến thẳng vào vùng đất **Giang Nam** phồn hoa đầy bão tố.
+#### 4. Phân Cảnh Chấn Động: Dì Hàng Xuất Hiện, Quả Tim Của Em Trai & Màn Dịch Dung Lịch Sử
+- Gió núi rít gào thổi tung làn khói xám. Thiên Dạ nằm sõng soài trên nền đá lạnh, lồng ngực phập phồng đứt quãng, lớp phấn sáp trên mặt rạn nứt để lộ làn da tím tái của kẻ sắp lâm chung.
+- Từ sau bóng cây tùng cháy dở, một bóng áo lam quen thuộc chậm rãi bước ra. Từng bước chân nhẹ nhàng đạp trên tuyết không hề lưu lại dấu vết: **Dì Hàng (Hàn Hương Tầm – Lạc Thần)**!
+- Thiếu Đông Gia sững sờ, buông rơi kiếm trong tay, thốt lên nghẹn ngào: *"Dì Hàng... Là dì thật sao?!"*
+- Nhưng dì Hàng không đáp lại. Ánh mắt dì dán chặt vào thân xác của Thiên Dạ đang thoi thóp dưới đất – một ánh nhìn chan chứa sự bàng hoàng, đau đớn tột cùng và nỗi ám ảnh giằng xé suốt hai mươi năm ròng rã.
+- **Khoảnh khắc chạm tay vào nhịp đập quả tim của người em trai:**
+  - Dì Hàng chầm chậm quỳ xuống bên cạnh Thiên Dạ. Đôi bàn tay vốn luôn vững vàng khi chém ngựa độc, khi rót rượu Ly Nhân Lệ, nay lại run rẩy kịch liệt.
+  - Dì nhẹ nhàng áp lòng bàn tay mềm mại lên lồng ngực đẫm máu của Thiên Dạ.
+  - Dưới lớp da thịt chắp vá bởi tà thuật Tú Kim Lâu, **một nhịp tim dồn dập, nghẹn ngào, đau đớn nhưng vô cùng thân thương vang lên từng hồi: *Thình thịch... Thình thịch...***
+  - Đó chính là nhịp đập từ **quả tim của người em trai ruột thịt** năm xưa – đứa bé đã kiên quyết đẩy chị qua khe tường hẹp trong đêm mưa Lương Phủ, một mình đứng lại chặn cửa chịu cảnh mổ tim sống để chị được sống sót!
+  - Hai hàng nước mắt nóng hổi lăn dài trên gò má người phụ nữ kiên cường nhất Thần Tiên Độ, nhỏ từng giọt xuống gương mặt đẫm máu của Thiên Dạ. Dì Hàng run run thì thầm, giọng nghẹn ứ nơi cổ họng:
+    > *"Em ngoan... Đã chịu khổ nhiều rồi... Suốt hai mươi năm qua, chị tìm em khắp chân trời góc bể... Chị rốt cuộc cũng tìm thấy em rồi..."*
+  - Thiên Dạ trợn tròn mắt nhìn dì Hàng. Trong khoảnh khắc thần thức sắp tiêu biến, sự tàn bạo trong mắt ả bỗng tan chảy hoàn toàn. Ả nhìn người phụ nữ đang khóc vì mình, cảm nhận luồng hơi ấm từ bàn tay dì Hàng truyền qua lồng ngực. Quả tim em trai trong lồng ngực đập dồn dập như đứa trẻ tìm lại được mẹ sau bao năm lưu lạc. Khóe miệng dính máu của ả khẽ mấp máy một tiếng gọi mơ hồ: *"Tỷ... tỷ..."* rồi trút hơi thở cuối cùng, mi mắt khép lại thanh thản.
+
+- **Quyết định kinh thiên & Màn thi triển thuật dịch dung:**
+  - Từ xa, tiếng còi hiệu đặc trưng của Tú Kim Lâu đã vang lên dồn dập trong rừng tuyết – viện binh do Đường Ai Đế phái đến đang rầm rộ kéo tới thu dọn chiến trường.
+  - Dì Hàng gạt phăng nước mắt, ánh mắt dịu dàng lập tức chuyển thành sự kiên định lạnh lùng như băng tuyết ngàn năm. Dì ngẩng đầu nhìn Thiếu Đông Gia: *"Thời gian không còn nhiều. Đứa ngốc, nghe kỹ lời dì dặn!"*
+  - Dì mở chiếc hộp gỗ sơn son bên hông, rút ra tấm da mỏng và các loại thảo mộc dịch dung bí truyền của "Lạc Thần". Trước mắt Thiếu Đông Gia, dì Hàng bắt đầu thi triển thuật dịch dung đỉnh cao của thiên hạ:
+    - Bàn tay thoăn thoắt xoa bột phấn, định hình lại khung xương gò má và sống mũi.
+    - Dì cởi bỏ chiếc áo lam phong trần, khoác lên mình bộ trường bào lụa đen đẫm máu của Thiên Dạ, cài chiếc trâm vàng hình bọ cạp Mộng Khôi lên búi tóc.
+    - Chỉ trong vài chục nhịp thở, khí chất ôn nhu của bà chủ Thần Tiên Độ hoàn toàn biến mất, thay vào đó là một **Thiên Dạ** lạnh lùng, tàn nhẫn, toát ra khí tức ma đạo ngút trời – giống đến mức ngay cả những kẻ thân cận nhất của Tú Kim Lâu cũng tuyệt đối không thể phân biệt!
+- **Lời từ biệt dấn thân vào hang cọp:**
+  - Dì Hàng (nay mang diện mạo Thiên Dạ) quay lại, đưa bàn tay lạnh ngắt vuốt nhẹ lên má Thiếu Đông Gia, cất giọng trầm ấm quen thuộc nhưng đượm vẻ kiên quyết:
+    > *"Đừng nhìn dì bằng ánh mắt đó. Dì không phải đi tìm cái chết. Dì đi để đưa em trai dì trở về, và để tự tay nhổ tận gốc cái lầu Tú Kim độc hại kia, kết thúc món nợ máu từ thời Thần Tiên Độ! Đao của Đao Ca con đang mang, áo đỏ của Hồng Tuyến con đang giữ, hãy sống thay phần của tất cả bọn họ!"*
+  - Dì nhét vào tay Thiếu Đông Gia một phong mật thư buộc dải lụa đỏ:
+    > *"Giang Nam sóng gió ngập trời, các thế lực chư hầu đang cấu kết cùng Tú Kim Lâu chuẩn bị đại chiến. Con hãy cầm bức thư này xuôi về phương Nam tìm người tên **Cố Thần**. Hãy bảo trọng, con của ta!"*
+  - Tiếng bước chân của toán sát thủ áo đen Tú Kim Lâu đã ập đến chân đồi. Dì Hàng dứt khoát xoay người, trường bào đen tung bay trong gió tuyết, lạnh lùng cất giọng the thé ra lệnh cho đám thuộc hạ vừa chạy tới, rồi cùng chúng khuất dần vào màn sương tuyết mịt mù, chính thức thâm nhập vào sào huyệt sâu nhất của kẻ thù.
+
+#### 5. Mặc Môn Phân Liệt Hai Ngả Đường & Khúc Vĩ Thanh Tiến Về Giang Nam
+- **Sự chia rẽ lịch sử của Mặc Sơn Đạo:**
+  - Sau thảm họa Trụy Nhật Chử Hải và cú nổ giải phóng cửa núi, Mặc Sơn Đạo không còn có thể duy trì sự thống nhất:
+    - *Nhánh Yến Cự Tử:* Ở lại thung lũng Bất Kiến Sơn đổ nát. Cùng với sự phò tá của Lộ sư tỷ mù hai mắt và chú bé Tiểu Lôi, Yến Cự Tử bắt đầu công cuộc tái thiết gian nan từ đống tro tàn. Nàng dùng kỹ nghệ cơ quan chế tạo guồng nước, cày bừa tự động và lò sưởi than đá, mở cửa đón nhận toàn bộ lưu dân cùng nhau dựng nhà làm ruộng, thực thi trọn vẹn lý tưởng *"Kiêm Ái, Phi Công – Khoa học vị nhân sinh"*.
+    - *Nhánh Bằng Trưởng Lão:* Cùng Linh Nhi và đám đệ tử hiếu chiến mang theo toàn bộ bản vẽ nỏ máy, chiến xa cơ quan hạng nặng rời khỏi núi sâu. Họ lựa chọn con đường nhập thế, dấn thân vào vòng xoáy tranh giành quyền lực đẫm máu của các chư hầu thời Ngũ Đại Thập Quốc.
+- **Khúc Vĩ Thanh Lên Đường:**
+  - Khi ánh bình minh rực rỡ xua tan hoàn toàn màn sương mù bão tuyết, chiếu rọi lên con đường thênh thang vừa được khai mở dẫn ra khỏi Bất Kiến Sơn, Thiếu Đông Gia đứng trên đỉnh đèo nhìn lại sơn môn lần cuối.
+  - Mang theo thanh Tử Nhân Đao của Đao Ca trên lưng, chiếc áo đỏ của Hồng Tuyến bên mình, và phong mật thư của dì Hàng giấu trong ngực áo, Thiếu Đông Gia siết chặt chuôi kiếm.
+  - Bỏ lại sau lưng những ân oán và bi kịch của vùng núi phía Bắc, nhân vật sải những bước chân kiên định xuôi về phương Nam, tiến thẳng vào vùng đất **Giang Nam** phồn hoa đô hội nhưng ẩn giấu những cơn cuồng phong thế sự chưa từng có.
 
 ---
 
