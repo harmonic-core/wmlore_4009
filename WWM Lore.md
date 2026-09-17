@@ -248,8 +248,9 @@ Quần Anh Hội & Biến cố Sinh Kim Âu                                     
 - Kẻ giả thần tài lộ diện là một cô nương xinh đẹp tên **Doanh Doanh**. Doanh Doanh mời Thiếu Đông Gia đi ăn mì, gạ khui bình rượu Ly Nhân Lệ quý giá nhưng bị từ chối. Lấy cớ ra ngoài, Doanh Doanh chuồn mất, để lại bức thư bỡn cợt *"Hóa bính trừ cơ chi thuật"* (vẽ bánh ngắm cho đỡ đói), bắt Thiếu Đông Gia cấn nợ bình rượu cho quán và đi buôn gạo kiếm vốn.
 
 #### 2. Khủng Hoảng Tiền Tệ & "Tiểu Lý Phi Kê" Của Triệu Ca
-- Thiếu Đông Gia đi buôn gạo gặp lão Jein và cô bé **Tiểu Phúc** tự xưng là người của Đạo Chủ. Kiểm tra túi tiền của Tiểu Phúc, Thiếu Đông Gia phát hiện toàn là **tiền sắt nhà Đường** bị cấm lưu hành. 
-- Tiểu Phúc dẫn Thiếu Đông Gia đi sâu vào ngõ hẻm Khai Phong: tận mắt chứng kiến người lao động kiệt sức, người mẹ đói cắn máu đầu ngón tay cho con bú bên cạnh Lò đúc tiền khổng lồ của triều đình. Hậu chủ Nam Đường **Lý Dục** tuồn tiền sắt vào phá hoại khiến giá trị đồng tiền Tống sụp đổ, dân chúng lầm than.
+- **Bối cảnh kinh tế - chính trị vĩ mô:** Cuộc khủng hoảng Khai Phong không đơn thuần là vụ án tiền giả, mà là đòn chiến tranh kinh tế sinh tử giữa nhà Tống và Nam Đường. Hậu chủ Nam Đường **Lý Dục** tuồn ồ ạt **tiền sắt nhà Đường** vào Biện Kinh gây lạm phát phi mã. Để đáp trả, Tấn Trung Nguyên (**Triệu Quang Nghĩa**) ban hành *"Đường tiền thu nộp lệnh"* (lệnh cưỡng chế tịch thu toàn bộ tiền Đường). Tuy nhiên, chính sách thô bạo cùng sự tha hóa của quan lại trung gian (như Hắc Thần Tài) đẩy dân nghèo vào cảnh khốn cùng: tiền tích góp bỗng chốc thành đống sắt vụn bị cướp trắng, không có tiền mua gạo.
+- Thiếu Đông Gia đi buôn gạo gặp lão Jein và cô bé **Tiểu Phúc** tự xưng là người của Đạo Chủ. Kiểm tra túi tiền của Tiểu Phúc, Thiếu Đông Gia phát hiện toàn là tiền sắt nhà Đường bị cấm lưu hành. 
+- Tiểu Phúc dẫn Thiếu Đông Gia đi sâu vào ngõ hẻm Khai Phong: tận mắt chứng kiến người lao động kiệt sức, người mẹ đói cắn máu đầu ngón tay cho con bú bên cạnh Lò đúc tiền khổng lồ của triều đình.
 - Bị quân binh phát hiện tiền sắt, Thiếu Đông Gia tuốt kiếm mở đường máu. Giữa lúc nguy cấp, một người đàn ông béo mập xuất hiện, thi triển tuyệt kỹ **"Tiểu Lý Phi Kê"** (ném nguyên một đàn gà) vào mặt quân lính, náo loạn cả góc chợ rồi kéo Thiếu Đông Gia tẩu thoát. Đó chính là **Triệu Ca** (Hoàng đế Triệu Khuông Dẫn vi hành).
 
 ---
@@ -258,7 +259,7 @@ Quần Anh Hội & Biến cố Sinh Kim Âu                                     
 
 1. **Quần Anh Hội Tại Phàn Lâu:**
    - Triệu Ca rủ Thiếu Đông Gia lẻn vào Phàn Lâu bằng thuyền của người lái đò quen. Tại cửa, hai tên đạo tặc giở trò hạ độc nữ tử Phàn Lâu thì bị **Ôn Vô Khuyết** (Đông Khuyết công tử của Vị Ương Thành) phi hai đồng xu chuẩn xác tiêu diệt.
-   - Triệu Ca rủ Thiếu Đông Gia cải trang thành thị vệ đứng sau Ôn Vô Khuyết. Ôn Vô Khuyết giới thiệu bảo vật **Sinh Kim Âu** (Tụ Bảo Bồn) cho các nhân vật quyền thế: Đạo Chủ chợ ngầm, Thường Bình Sứ **Trịnh Ngạt**, tướng quân Dung Viên và Sử quan béo ục ịt **Sử Quang**.
+   - Triệu Ca rủ Thiếu Đông Gia cải trang thành thị vệ đứng sau Ôn Vô Khuyết. Ôn Vô Khuyết giới thiệu bảo vật **Sinh Kim Âu** (Tụ Bảo Bồn) cho các nhân vật quyền thế: Đạo Chủ chợ ngầm, Thường Bình Sứ **Trịnh Ngạt**, tướng quân Dung Viên và Sử quan béo ục ịt **Sử Quang**. Thực chất, màn phô trương Tụ Bảo Bồn là một nước cờ tinh vi của Doanh Doanh nhằm điều phối dòng tiền, vạch trần quan tham và tìm cách khôi phục thế lực Vị Ương Thành.
    - Hỗn loạn nổ ra khi Sử Quang thò tay vào bồn gây nổ lớn. Thiếu Đông Gia chụp lấy chiếc túi rơi xuống tưởng là bảo vật, ai ngờ bên trong chỉ là một chiếc bồn rỗng. Phủ Doãn Khai Phong ập vào, bắt giam Ôn Vô Khuyết và ép Thiếu Đông Gia uống viên **Đoạt Hồn Đan** (trong 7 ngày phải phá xong vụ án tiền giả nếu không sẽ mất mạng).
 2. **Màn Parkour Trên Mái Nhà & Nhà Của Quy Bà:**
    - Nhờ sự trợ giúp của **Vạn Sự Tri**, Thiếu Đông Gia biết chiếc mặt nạ vỡ thuộc về **Cửu Lưu Môn**. Cả hai tìm **Bạc Độ Nhân** tại Giác Môn để xuống Chợ Âm Phủ.
@@ -274,10 +275,11 @@ Quần Anh Hội & Biến cố Sinh Kim Âu                                     
 - Sử quan **Sử Quang** dẫn quan binh ập tới khám xét, tịch thu toàn bộ số tiền Doanh Doanh giấu trong đống rơm. Trong lúc giằng co xô xát, hũ tiền của Quy Bà rơi xuống vỡ toang.
 - Sử Quang nhặt lên và lạnh lùng vạch trần: Đây là tiền **"Thiên Phúc Nguyên Bảo"** – tiền đền bù tử tuất cho gia đình binh sĩ chết trận từ hơn 10 năm trước. Sự thật vỡ lở, lời nói dối ngọt ngào sụp đổ khiến Quy Bà ôm hũ tiền khóc than thảm thiết giữa phố chợ.
 
-#### 2. Thâm Nhập Hố Tro & Sự Thật Tam Đạo Chủ Quỷ Phàn Lâu
+#### 2. Thâm Nhập Hố Tro, Lịch Sử Cửu Lưu Môn & Tam Đạo Chủ Quỷ Phàn Lâu
 - Cô bé **Tiểu Phúc** ôm Tụ Bảo Bồn giả thi triển khinh công dẫn dụ Sử Quang và quan binh đuổi theo, tạo khoảng trống cho Thiếu Đông Gia tiến vào **Hố Tro** (nơi nửa âm nửa dương của Khai Phong).
+- **Lịch sử bi tráng của Cửu Lưu Môn:** Đây vốn là tập hợp những mảnh đời cùng khổ dưới đáy xã hội nhưng giàu nghĩa khí, từng xả thân tử chiến đẩy lùi quân Khiết Đan bảo vệ Trung Nguyên chịu tổn thất nặng nề. Sau chiến tranh, môn phái bị phản đồ **Hồng Tứ** phản bội bán đứng khiến lực lượng tan đàn xẻ nghé.
 - Nhờ một cụ già chỉ đường và giải cứu người Cửu Lưu Môn bị Vô Ưu Bang vây đánh, Thiếu Đông Gia lấy được chìa khóa bước vào **Quỷ Phàn Lâu**. Sau khi đánh bại toán côn đồ và làm sập võ đài trước gã khổng lồ Khiết Đan, Thiếu Đông Gia rơi xuống cống ngầm trồi lên tại khu mộ anh hùng Cửu Lưu Môn.
-- "Đạo Chủ ba đầu sáu tay" xuất hiện tấn công rồi phân thân làm ba người. Sau khi đánh bại phân thân, Thiếu Đông Gia phát hiện Đạo Chủ thực chất là ba chị em sinh ba **Phúc – Lộc – Thọ** (Tiểu Phúc, Tiểu Lộc, Tiểu Thọ) được Tiết Sửu bảo bọc. Ba chị em thừa nhận bảo vật Tụ Bảo Bồn "Sinh Kim Âu" chỉ là trò bịp huyền thuật của Vị Ương Thành phối hợp với Túy Hoa Âm dựng nên.
+- "Đạo Chủ ba đầu sáu tay" xuất hiện tấn công rồi phân thân làm ba người. Sau khi đánh bại phân thân, Thiếu Đông Gia phát hiện Đạo Chủ thực chất là ba chị em sinh ba **Phúc – Lộc – Thọ** (Tiểu Phúc, Tiểu Lộc, Tiểu Thọ) được Tiết Sửu bảo bọc. Ba chị em thay nhau đóng giả Đạo Chủ để tụ họp nghĩa sĩ, can thiệp vào các kho lương cứu tế giúp dân nghèo cầm cự trước nạn đói. Ba chị em thừa nhận bảo vật Tụ Bảo Bồn "Sinh Kim Âu" chỉ là chiêu thức huyền ảo do Vị Ương Thành phối hợp với Túy Hoa Âm dựng nên.
 
 #### 3. Doanh Doanh Lộ Diện & Khúc Hát Chấn Động Khai Phong
 - Quan binh tràn vào Giác Môn bắt bớ dân nghèo áp giải đi làm khổ sai tại Lò Đúc Tiền. Doanh Doanh bất ngờ xuất hiện và công khai thân phận thật sự: Nàng chính là **Đông Khuyết Công Tử Ôn Vô Khuyết** – thành chủ Vị Ương Thành (danh hiệu **Bạch Thần Tài**).
@@ -324,15 +326,26 @@ Quần Anh Hội & Biến cố Sinh Kim Âu                                     
 
 ---
 
-### Hồi 6: Bi Kịch An Đạt Thôn & Nỗi Đau Của Trịnh Ngạt
+### Hồi 6: Đại Án Thường Bình Thương & Nỗi Đau Diệt Môn Của Trịnh Ngạt
 
-- **Thảm sát An Đạt Thôn:** Thuở nhỏ, thiếu chủ **Trịnh Ngạt** cùng em gái **Trịnh Nguyễn** mở kho thóc cứu đói dân làng, kết nghĩa cùng cậu bé nghèo **Thẩm Nghĩa Luân**. Tuy nhiên, anh trai Nghĩa Luân là Thẩm Nghĩa Nhân dẫn thổ phỉ đến tàn sát cả làng, sát hại dã man bé Trịnh Nguyễn. Chu Ngư xuất hiện cứu sống Trịnh Ngạt và Thẩm Nghĩa Luân.
-- **Sự tha hóa:** Lớn lên, chứng kiến triều đình Tống lấy đất gia tộc họ Trịnh ban thưởng cho thổ phỉ đầu hàng, Trịnh Ngạt hoàn toàn sụp đổ niềm tin. Hắn liên kết với Doanh Doanh, nhờ Hàng Hương Tầm dịch dung giả dạng Thường Bình Sứ Thẩm Nghĩa Luân để tuồn quân lương ra chợ đen và phát tán độc Mộng Khôi nhằm hủy diệt Khai Phong.
-- **Sự thức tỉnh:** Thẩm Nghĩa Luân thật bị giam dưới hang tối chịu tra tấn nhưng đã chọn cách tự thiêu cùng thi thể Trịnh Nguyễn để hóa giải tâm ma và chuộc tội thay người anh em kết nghĩa.
+- **Thảm sát An Đạt Thôn & Nguồn Cội Thù Hận:** Thuở nhỏ, thiếu chủ **Trịnh Ngạt** cùng em gái **Trịnh Nguyễn** mở kho thóc cứu đói dân làng, kết nghĩa cùng cậu bé nghèo **Thẩm Nghĩa Luân**. Tuy nhiên, lòng tốt ngây thơ của Nghĩa Luân bị người anh ruột Thẩm Nghĩa Nhân lợi dụng, dẫn thổ phỉ đến cướp phá tàn sát cả làng, sát hại dã man bé Trịnh Nguyễn. Dù Chu Ngư xuất hiện cứu sống Trịnh Ngạt và Thẩm Nghĩa Luân, vết thương lòng vĩnh viễn không thể lành.
+- **Mưu Kế "Lý Đại Đào Cương" (Mận Chết Thay Đào):** 
+  - Lớn lên, chứng kiến triều đình nhà Tống đem đất đai tổ tiên họ Trịnh phong thưởng cho chính những kẻ cướp năm xưa đầu hàng, Trịnh Ngạt hoàn toàn hắc hóa. 
+  - Hắn âm thầm liên kết với Túy Hoa Âm và Doanh Doanh, nhờ Hàng Hương Tầm dùng bí thuật dịch dung giả dạng làm Thường Bình Sứ **Thẩm Nghĩa Luân** thật. Hắn giam cầm Nghĩa Luân dưới hang tối, biến cơ quan điều tiết giá lương thực triều đình (**Thường Bình Thương**) thành cỗ máy đầu cơ gạo khổng lồ, bòn rút lương thảo và tuồn Mộng Khôi vào Khai Phong nhằm hủy diệt đô thành trả thù.
+- **Sự Thức Tỉnh Bi Tráng:** Thẩm Nghĩa Luân thật dù bị giam cầm tra tấn tàn khốc nhưng vẫn ôm trọn tấm lòng hối hận vì thảm kịch năm xưa. Nhận ra dã tâm tự hủy của Trịnh Ngạt, Thẩm Nghĩa Luân đã chọn cách tự thiêu cùng hài cốt Trịnh Nguyễn giữa ngọn lửa rực sáng hang sâu, dùng cái chết của mình để chuộc tội và hóa giải tâm ma cho người anh em kết nghĩa.
 
 ---
 
-### Hồi 7: Những Số Phận Nhỏ Bé Thành Khai Phong
+### Hồi 7: Bi Kịch Ngũ Nha Đại Hạm & Tướng Quân Dung Viên
+
+- **Ngũ Nha Đại Hạm Biệt Ca:** 
+  - Tướng quân **Dung Viên** (vị tướng xuất hiện tại Quần Anh Hội Phàn Lâu) là thống soái chiến hạm khổng lồ **Ngũ Nha** chấn thủ thủy đạo Khai Phong. 
+  - Ông sinh ra trong danh môn vọng tộc quân nhân nhiều đời trung liệt, nhưng dòng họ liên tục bị nghi kỵ, bức hại qua các triều đại đổi ngôi thời Ngũ Đại. Nhìn thấy quan trường thối nát, quân đội bị thao túng bởi những âm mưu chính trị bẩn thỉu và đồng bào bị bần cùng hóa, Dung Viên lâm vào bế tắc tuyệt vọng tột cùng giữa lòng trung và nỗi đau thời thế.
+  - Trong biến cố trên dòng Hoàng Hà, Dung Viên đã kích hoạt hỏa pháo tự bạo cùng chiếc soái hạm Ngũ Nha rực cháy giữa dòng nước xiết, thà chôn thân cùng chiến hạm chứ không cam chịu làm con tốt thí cho mưu đồ đoạt quyền của triều đình. Cái chết bi hùng của ông là một nốt trầm bi tráng về số phận của các danh tướng thời loạn.
+
+---
+
+### Hồi 8: Những Số Phận Nhỏ Bé Thành Khai Phong
 
 1. **Kim Diệp Tử (Lá Vàng Hiệp Khách) & Bé Trịnh Nhiên:**
    - Cô bé mù **Trịnh Nhiên** giữ niềm tin rằng nếu treo chiếc lá vàng lên **Bất Tử Thụ**, hiệp khách sẽ mang người cha mất tích trở về.
@@ -341,6 +354,40 @@ Quần Anh Hội & Biến cố Sinh Kim Âu                                     
    - Trương An Khang và vợ Lưu Nhàn tìm kiếm công thức mì lá hòe của người mẹ đã khuất. Bí quyết không nằm ở lá cây hòe mà ở tình thương: người mẹ luôn đứng dưới bóng cây đợi đứa con mải chơi về muộn để dọn ra bát mì ấm nóng.
 3. **Quỷ Công Tử Khương Ngội (Ẩn Vụ Lâm):** 
    - Chàng trai ôm mối hận người chị gái bị gia đình bán làm **minh hôn** (đám cưới ma). Hắn cải trang thành tân nương trong rừng độc, chuyên phục kích tiêu diệt những kẻ thực hiện hủ tục tàn nhẫn này.
+
+---
+
+### Hồi 9: Hiệp Tích 《Công Tử Thư》, Thảm Án Lương Phủ & Thân Thế Trái Tim Của Thiên Dạ
+
+```
+   Gia đình ly tán ──► Lương Phủ nhận nuôi làm "dược dẫn"
+                               │
+            ┌──────────────────┴──────────────────┐
+            ▼                                     ▼
+Người em trai cản giặc hy sinh           Dì Hàng (Hàn Hương Tầm) trốn thoát
+Bị mổ lấy tim ghép cho Thiếu chủ         Luyện thành võ học, quay về huyết tẩy Lương Phủ
+            │                                     │
+            ▼                                     ▼
+Tú Kim Lâu cứu Thiếu chủ                 Lấy danh xưng Lạc Thần, mai danh ẩn tích
+Cải tạo cơ thể ──► Thiên Dạ              Tâm linh cảm ứng: "Trái tim của em trai"
+```
+
+#### 1. Hiệp Tích Khai Phong: Thu Thập 《Công Tử Thư》
+- Tại Khai Phong, Thiếu Đông Gia tiếp nhận chuỗi nhiệm vụ hiệp tích độc đáo thông qua thư tín của **Nam Chúc Công Tử** (tức Hậu chủ Nam Đường Lý Dục). Thu thập 10 tàn trang rải rác khắp các góc khuất của Biện Kinh và không gian ảo ảnh "Đại Tự Tại Thiên", mở khóa hồ sơ mật về thân thế của những nhân vật chủ chốt.
+- Thử thách ảo ảnh BOSS 《Công Tử Thư》 có thể biến hóa thành nhiều hình dạng đại diện cho những nỗi đau của Khai Phong (Đạo Chủ, Dung Viên, Trịnh Ngạt, Hà Bá...). Vượt qua thử thách, Thiếu Đông Gia bàng hoàng khai mở bí mật đen tối nhất về quá khứ của người nuôi nấng mình: **Dì Hàng (Hàn Hương Tầm - Lạc Thần)**.
+
+#### 2. Thảm Án Lương Phủ & Sự Hy Sinh Của Người Em Trai
+- Cha của Hàn Hương Tầm vốn là một du hiệp giang hồ trượng nghĩa, nhưng rơi vào một ván cược mờ ám đầy cạm bẫy chính trị mà vong mạng, mẹ nàng uất ức tự vẫn theo. Thuở nhỏ ngây thơ, Hàn Hương Tầm từng ôm mối hận lầm tưởng cha cờ bạc bán vợ con.
+- Mồ côi cha mẹ, hai chị em Hương Tầm được **Lương Phủ** danh gia vọng tộc nhận nuôi. Nhưng ẩn sau vỏ bọc từ thiện là tội ác ghê rợn: Lương Phủ chỉ coi hai chị em như **"dược dẫn" (thuốc dẫn sống)** để tìm cách chữa trị căn bệnh tim hiểm nghèo bẩm sinh cho Lương gia Thiếu chủ.
+- Phát hiện âm mưu tàn độc, hai chị em liều mạng đào tẩu khỏi Lương Phủ trong đêm mưa. Trước làn sóng truy binh bủa vây, **người em trai nhỏ đã kiên quyết đẩy chị gái qua khe hẹp, một mình đứng lại chặn cửa để chị trốn thoát**.
+- Thoát khỏi tử địa, Hàn Hương Tầm nuốt nước mắt khổ luyện võ công, tiếp cận các bí thuật giang hồ và thuật dịch dung (sau này nổi danh với biệt hiệu **Lạc Thần**). Khi đủ thực lực quay về Lương Phủ để cứu em, cảnh tượng trước mắt khiến nàng phát cuồng: **Trái tim của người em trai ruột đã bị mổ sống, ghép thẳng vào lồng ngực của Lương gia Thiếu chủ!**
+- Trong cơn phẫn nộ cùng cực, Hàn Hương Tầm đã một mình vung kiếm **huyết tẩy toàn bộ Lương Phủ**, tắm máu cả trang viên trả thù cho em trai.
+
+#### 3. Mối Ràng Buộc Kỳ Dị Giữa Dì Hàng & Ma Đầu Thiên Dạ
+- Lương gia Thiếu chủ thoi thóp trong đống xác chết được thế lực **Tú Kim Lâu** cứu mang đi. Bằng tà thuật cấy ghép nội tạng và độc trùng Mộng Khôi của Đường Ai Đế Lý Tộ, thân xác hắn được chắp vá, cải tạo để trở thành vũ khí giết người tối thượng: **Thiên Dạ (千夜)**.
+- Vì **trái tim đang đập trong lồng ngực Thiên Dạ chính là trái tim của em trai ruột dì Hàng**, nên giữa hai người tồn tại một sự liên kết thần kinh - cảm ứng tâm linh méo mó (*"cảm đồng thân thụ"*). Trái tim ấy luôn đập loạn nhịp, co thắt đau đớn mỗi khi Thiên Dạ đối diện với dì Hàng. 
+- Điều này tạo nên một mối chấp niệm bệnh hoạn trong tâm trí Thiên Dạ: Hắn vừa căm thù dì Hàng vì đã hủy diệt Lương Phủ, vừa khao khát chiếm đoạt, thao túng và bám riết lấy nàng như một sợi dây níu giữ phần nhân tính còn sót lại.
+- **Mắt xích quyết định tại Bất Kiến Sơn:** Bí mật này chính là lời giải thích trọn vẹn nhất cho hành động của dì Hàng ở cuối Chương 4: Khi Thiên Dạ trọng thương ngã xuống giữa tro tàn Thành Phi Thiên, dì Hàng không chỉ đơn thuần muốn kết liễu ả, mà đã dùng thuật dịch dung hoán đổi thân phận để bước vào cơ thể đang chứa đựng **trái tim của người em trai ruột thịt** mà nàng tìm kiếm suốt cả cuộc đời!
 
 ---
 
@@ -620,7 +667,7 @@ Vách Than Thở & "Gà Kế Thăng"                                            
 
 ---
 
-### Hồi 5: Trận Pháp Đại Diễn, Thân Phận Kiếm Khách Tư Nam & Bóng Ma Tú Kim Lâu (In-game Quests)
+### Hồi 5: Gác Thiên Công, Kiếm Khách Tư Nam & Thiên Tai Nhân Họa (天灾人祸)
 
 #### 1. Đột Nhập Gác Thiên Công & Trận Pháp Đại Diễn
 - Tổ chức phản đồ ngoại đạo **Thầy Khốn Kỳ** do **Kiếm khách Tư Nam** cầm đầu liên tục đánh bom phá hoại các ngả đường vào Bất Kiến Sơn, ép buộc Mặc Sơn Đạo phải giao nộp Vàng Đen và phương thức Phục Hỏa.
@@ -628,14 +675,55 @@ Vách Than Thở & "Gà Kế Thăng"                                            
 - Thiếu Đông Gia kịp thời tiếp ứng, phá giải trận pháp Đại Diễn xoay chuyển ảo diệu, tiến vào mật thất cứu Tấn công tử đang bị Kiếm khách Tư Nam khống chế.
 
 #### 2. Chân Tướng Bàng Hoàng: Tư Nam Chính Là Chim Cắt
-- Thiếu Đông Gia giao chiến quyết liệt, đánh lui kiếm thuật hiểm độc của Tư Nam. Yến Cự Tử xuất hiện ngăn cản.
+- Thiếu Đông Gia giao chiến quyết liệt, đánh lui kiếm thuật hiểm độc của Tư Nam. Yến Cự Tử xuất hiện can ngăn.
 - Trong khoảnh khắc đối mặt, lớp mặt nạ rơi xuống hé lộ sự thật tàn khốc: **Kiếm khách Tư Nam chính là Chim Cắt** – người em trai thất lạc ngỡ đã chết trong vụ nổ 3 năm trước!
 - Sống sót sau thảm họa với cơ thể tàn tạ *"người không ra người, quỷ không ra quỷ"*, Chim Cắt đã hoàn toàn tha hóa tâm tính, ôm mối hận thù điên cuồng đòi đoạt lại Vàng Đen để chứng minh con đường của mình. Hắn kích nổ cơ quan tẩu thoát trong làn khói độc.
+- Tại nơi ẩn náu, Tư Nam thương tích đầy mình bất ngờ bị một kẻ bí ẩn điểm huyệt áp giải về Tú Kim Lâu – hé lộ bàn tay thao túng hắc ám của nữ ma đầu **Thiên Dạ**.
 
-#### 3. Bất Kiến Sơn Lộ Diện & Âm Mưu Của Tú Kim Lâu
-- Cùng lúc đó, lũ Thầy Khốn Kỳ bên ngoài phá hủy hoàn toàn cơ quan Hộ Sơn tại Vách Than Thở. Màn sương mù bao phủ Đào Hoa Nguyên tan biến hoàn toàn, Bất Kiến Sơn chính thức phơi bày trước sự dòm ngó của toàn thể giang hồ.
-- Tại nơi ẩn náu, Tư Nam thương tích đầy mình đối diện với kẻ chủ mưu thật sự trong bóng tối: Một kẻ bí ẩn đã cài bẫy trên giáp của hắn và tuyên bố **áp giải hắn về Tú Kim Lâu**!
-- Âm mưu thực sự lộ sáng: Mọi biến động tại Bất Kiến Sơn, từ việc tung tin đồn Đào Hoa Nguyên, kích động Thầy Khốn Kỳ đến việc truy lùng Vàng Đen và Lạc Thần (dì Hàng) đều do **Tú Kim Lâu** và nữ ma đầu **Thiên Dạ** đứng sau thao túng. Hành trình của Thiếu Đông Gia tiếp tục bước vào một cuộc đại chiến khốc liệt mới để bảo vệ Mặc Môn và cứu lấy dì Hàng.
+#### 3. Thiên Tai Nhân Họa (天灾人祸): Bão Tuyết Phong Sơn & Mặc Môn Nguy Khốn
+- Mùa đông khắc nghiệt ập đến, bão tuyết phong tỏa toàn bộ Bất Kiến Sơn. Cơ quan Hộ Sơn tại Vách Than Thở bị phá hủy hoàn toàn khiến màn sương mù che chắn Đào Hoa Nguyên tan biến, ngọn núi ngàn năm biệt lập phơi bày trước mắt thiên hạ.
+- **Thảm cảnh lưu dân & Ngoại địch áp sát:** Hàng vạn nạn dân đói rét từ bên ngoài ùa vào lánh nạn; kéo theo đó là quan binh triều đình Tống lăm le cướp đoạt cơ quan thuật số, cùng lũ mật thám Tú Kim Lâu lùng sục Vàng Đen và dấu vết của Lạc Thần (dì Hàng).
+- **Mâu thuẫn tư tưởng phân liệt:** Sơn môn rơi vào cảnh nội ưu ngoại hoạn chưa từng có:
+  - *Phe Cự Tử Yến:* Kiên định giữ vững lý tưởng *"Kiêm Ái, Phi Công"*, mở kho cứu tế, chia sẻ than đá và lương thực cho lưu dân cùng các đệ tử nghèo khổ như Tiểu Lôi.
+  - *Phe Bằng Trưởng Lão (鹏长老):* Cho rằng lòng tốt mù quáng sẽ dẫn đến diệt vong, chủ trương trục xuất người ngoài, tái vũ trang cơ quan để chuẩn bị nhập thế xưng hùng trong loạn thế.
+
+---
+
+### Hồi 6 (Đại Kết Cục Bất Kiến Sơn): Trụy Nhật Chử Hải (坠日煮海), Đại Chiến Thiên Dạ & Phân Liệt Mặc Môn
+
+```
+Bão tuyết phong sơn ──► Cơ quan Hộ Sơn sụp đổ ──► Bằng Trưởng Lão khởi động tàn thể Thành Phi Thiên
+                                                               │
+                 ┌─────────────────────────────────────────────┴────────────────────────────────┐
+                 ▼                                                                              ▼
+     TRỤY NHẬT CHỬ HẢI (Ô Kim bạo phát)                                          ĐẠI CHIẾN TÚC ĐỊCH THIÊN DẠ
+  - Cự Tử Yến cho nổ núi phá Đại Diễn Mê Trận                                   - Thân thế Đoàn gia & Song tử dược dẫn
+  - Mở toang sơn môn Bất Kiến Sơn                                               - Dì Hàng dịch dung thế chỗ thâm nhập
+                                                                                - Mặc Môn phân liệt 2 phái
+```
+
+#### 1. Âm Mưu Bằng Trưởng Lão & Nguy Cơ "Trụy Nhật Chử Hải"
+- Để hiện thực hóa tham vọng phục hưng Mặc Môn và đối đầu ngoại địch, **Bằng Trưởng Lão** cùng đệ tử **Linh Nhi (鸰儿)** đã âm thầm giở trò, dùng kế ly gián lừa gạt cả Thiên Dạ lẫn môn đồ, cưỡng ép tái khởi động lò năng lượng Ô Kim bên trong tàn thể **Thành Phi Thiên** trên đỉnh núi cao.
+- Tuy nhiên, cấu trúc cơ quan rệu rã sau thảm họa Đêm Sao Rơi không thể chịu nổi nhiệt lượng cực hạn của thuật Phục Hỏa. Lò luyện Ô Kim quá tải nghiêm trọng, biến cỗ máy hình chim khổng lồ thành một khối cầu lửa rực sáng đỏ rực bầu trời đêm tựa như *"Mặt trời rơi xuống đun sôi cả biển cả"* (**Trụy Nhật Chử Hải**), đe dọa phát nổ san phẳng toàn bộ Bất Kiến Sơn và thiêu rụi vạn sinh linh thành tro bụi.
+
+#### 2. Quyết Định Bước Ngoặt Của Yến Cự Tử & Cú Nổ Phá Sơn Môn
+- Trước thảm họa diệt môn cận kề, Yến Cự Tử ngồi trên xe lăn đã đưa ra một quyết định quả cảm làm thay đổi vĩnh viễn vận mệnh Mặc gia: *Không thể tiếp tục trốn tránh trong ốc đảo Đào Hoa Nguyên giả tạo!*
+- Nàng phối hợp cùng Thiếu Đông Gia xông thẳng vào tâm chấn Thành Phi Thiên. Bằng thuật toán cơ quan tuyệt đỉnh, Yến Cự Tử điều hướng luồng nổ năng lượng Ô Kim đâm thẳng vào mạch đá hiểm trở, chủ động cho nổ tung vách núi, phá hủy triệt để **Đại Diễn Mê Trận** đã giam hãm Mặc Sơn Đạo suốt ngàn năm qua.
+- Tiếng nổ long trời lở đất vang rền, tàn thể Thành Phi Thiên gãy cánh rơi rụng tan tành giữa biển lửa. Mê trận sụp đổ, cửa núi Bất Kiến Sơn chính thức mở toang trước ánh sáng mặt trời và gió bụi giang hồ.
+
+#### 3. Đại Chiến Túc Địch Thiên Dạ & Bí Mật "Song Tử Dược Dẫn"
+- Giữa đống tro tàn rực lửa của Thành Phi Thiên rơi xuống, túc địch truyền kiếp **Thiên Dạ (千夜)** bất ngờ xuất hiện chặn đường.
+- **Thân thế bi kịch của Thiên Dạ:** Ả lộ diện thân thế thực sự là đại tiểu thư tôn quý của danh gia họ Đoàn. Ngay từ thuở ấu thơ, ả đã bị biến thành **"song tử dược dẫn"** trong thí nghiệm tàn bạo của Tú Kim Lâu: cơ thể bị phẫu thuật cấy ghép dị biến, dung nạp cổ trùng Mộng Khôi trường sinh dẫn đến tâm trí phân liệt thành hai nhân cách đối nghịch (**Thiên Dạ Song Hồn** – một linh hồn tàn độc lạnh lùng và một linh hồn khao khát tình thương). Ả sống trong nỗi đau đớn thể xác triền miên và biến hận thù thành ngọn lửa tàn sát nhân thế.
+- Thiếu Đông Gia bước vào trận quyết đấu sinh tử đỉnh cao giữa biển lửa tàn tích. Bằng kiếm pháp tôi luyện qua bao biến cố và sự thức tỉnh của bản ngã Hòa Âm, nhân vật phá giải toàn bộ ảo mộng ma quái của Thiên Dạ, tung đòn quyết định đánh gục nữ ma đầu.
+
+#### 4. Màn Dịch Dung Của Dì Hàng & Tương Lai Phân Liệt Của Mặc Môn
+- **Dì Hàng (Lạc Thần) ra tay:** Ngay sau khi Thiên Dạ trọng thương ngã xuống, **dì Hàng** bất ngờ xuất hiện từ trong bóng tối. Với bí thuật dịch dung tuyệt thế, dì Hàng đã kịp thời hoán đổi thân phận, cải trang thành chính Thiên Dạ để thâm nhập sâu vào nội bộ cấp cao của Tú Kim Lâu, quyết tâm tìm ra thuốc giải Mộng Khôi và thanh toán mối huyết thù Thần Tiên Độ năm xưa.
+- **Mặc Môn Phân Liệt Hai Ngả Đường:**
+  - *Nhánh Yến Cự Tử:* Ở lại Bất Kiến Sơn đổ nát, cùng Tiểu Lôi và các đệ tử lương thiện tái thiết sơn môn trên đống tro tàn, dùng cơ quan thuật chế tạo nông cụ, cày cấy dẫn nước giúp đỡ lưu dân, thực thi trọn vẹn tinh thần *"Kiêm Ái, Phi Công – Khoa học vị nhân sinh"*.
+  - *Nhánh Bằng Trưởng Lão:* Cùng những môn đồ ôm mộng quyền lực rời khỏi núi sâu, mang theo vũ khí cơ quan thuật số nhập thế, dấn thân vào guồng quay tranh bá đoạt vị của các chư hầu thời Ngũ Đại Thập Quốc.
+- **Khúc Vĩ Thanh Lên Đường Xuống Phía Nam:** 
+  - Đứng trên đỉnh Bất Kiến Sơn lộng gió nhìn ánh bình minh rạng ngời chiếu rọi vùng đất mới mở toang, Thiếu Đông Gia từ biệt Yến Cự Tử. 
+  - Mang theo chiếc áo/vòng tay của Hồng Tuyến, thanh đao của Đao Ca và tung tích mới về dì Hàng nơi Tú Kim Lâu, Thiếu Đông Gia chính thức cất bước xuôi về phương Nam – tiến thẳng vào vùng đất **Giang Nam** phồn hoa đầy bão tố.
 
 ---
 
@@ -649,10 +737,12 @@ Vách Than Thở & "Gà Kế Thăng"                                            
 - **Trấn Hoàng Ngọc (Trấn Quang Ngọc):** Tín vật hộ mệnh đeo trên cổ Thiếu Đông Gia và Bạch Sở Ngọc, thực chất là hai mảnh vỡ được phân tách từ Kim Đào tại trận cầu Trung Độ năm 946.
 - **Tú Kim Lâu:** Tổ chức sát thủ do Đường Ai Đế Lý Tộ lập nên, sử dụng Mộng Khôi và thuật dịch dung làm công cụ thao túng chính trị thời Ngũ Đại.
 - **Chiêu Tuyết Cổ:** Trống lệnh thiêng liêng đặt tại Bắc Lãng Sa, biểu tượng liên minh sinh tử giữa Giao Long Bang và triều đình Hậu Chu để ứng cứu hộ đê Hoàng Hà.
-- **Vàng Đen (Kim Ô) & Thuật Phục Hỏa:** Loại khoáng sản năng lượng đặc biệt và bí thuật luyện kim của Mặc Sơn Đạo dùng để kích hoạt động cơ đẩy Thành Phi Thiên, nhưng từng gây ra thảm họa nổ tung kinh hoàng.
-- **Thành Phi Thiên:** Cỗ máy kiến trúc khổng lồ hình chim ngự trên đỉnh núi Bất Kiến Sơn, biểu tượng cho khát vọng chinh phục bầu trời và lý tưởng "Thiên hạ đại đồng" của Mặc Môn.
-- **Yến Cự Tử:** Chưởng môn đời mới của Mặc Sơn Đạo, thiên tài cơ quan thuật số bẩm sinh, bị liệt hai chân sau thảm họa Đêm Sao Rơi.
-- **Kiếm khách Tư Nam (Chim Cắt):** Em trai của Yến Cự Tử, sống sót sau vụ nổ với thân thể tàn tạ, hóa thân thành thủ lĩnh Thầy Khốn Kỳ để cướp đoạt Vàng Đen trước khi bị Tú Kim Lâu thao túng.
+- **Vàng Đen (Kim Ô / Ô Kim) & Thuật Phục Hỏa:** Loại khoáng sản năng lượng đặc biệt và bí thuật luyện kim của Mặc Sơn Đạo dùng để kích hoạt động cơ đẩy Thành Phi Thiên, nhưng từng gây ra thảm họa nổ tung kinh hoàng.
+- **Thành Phi Thiên:** Cỗ máy kiến trúc khổng lồ hình chim ngự trên đỉnh núi Bất Kiến Sơn, biểu tượng cho khát vọng chinh phục bầu trời và lý tưởng "Thiên hạ đại đồng" của Mặc Môn, đã bị nổ tung và rơi rụng trong đại biến Trụy Nhật Chử Hải.
+- **Yến Cự Tử:** Chưởng môn đời mới của Mặc Sơn Đạo, thiên tài cơ quan thuật số bẩm sinh, bị liệt hai chân sau thảm họa Đêm Sao Rơi, người quyết định phá hủy Đại Diễn Mê Trận để mở toang sơn môn đón nhận thế giới.
+- **Kiếm khách Tư Nam (Chim Cắt):** Em trai của Yến Cự Tử, sống sót sau vụ nổ với thân thể tàn tạ, hóa thân thành thủ lĩnh Thầy Khốn Kỳ để cướp đoạt Vàng Đen trước khi bị Tú Kim Lâu bắt giữ.
+- **Thiên Dạ (千夜 / Tầm Tâm):** Nữ thủ lĩnh tàn độc của Tú Kim Lâu, mang thân thế đại tiểu thư họ Đoàn bị biến thành "song tử dược dẫn", cơ thể cấy ghép Mộng Khôi dẫn đến phân liệt hai linh hồn (Thiên Dạ Song Hồn).
+- **Trụy Nhật Chử Hải (坠日煮海):** Biến cố bùng nổ năng lượng Ô Kim tại tàn thể Thành Phi Thiên, dẫn đến việc Yến Cự Tử cho nổ tung vách núi, xóa bỏ Đại Diễn Mê Trận và mở toang Bất Kiến Sơn trước giang hồ.
 
 ---
 
@@ -667,6 +757,7 @@ Cốt truyện *Where Winds Meet* không đơn thuần là hành trình bôn t�
 
 ### 3. Phụ Lục: Các Điểm Mở & Giả Thuyết Lore
 - **Thân thế thật sự của hai đứa trẻ:** Nguồn gốc huyết thống thực sự của Thiếu Đông Gia và Bạch Sở Ngọc trước trận cầu Trung Độ vẫn là ẩn số chưa được giải đáp hoàn toàn.
-- **Tung tích Lạc Thần (dì Hàng) & Trận chiến với Thiên Dạ:** Dì Hàng được Doanh Doanh sắp xếp ẩn náu tại Bất Kiến Sơn để tránh tai mắt Tú Kim Lâu. Tuy nhiên, Thiên Dạ đã lần theo dấu vết và cơ quan Hộ Sơn sụp đổ sẽ đẩy Bất Kiến Sơn vào trận quyết chiến lớn tiếp theo.
-- **Số phận của Tư Nam (Chim Cắt):** Sau khi bị thương trong trận chiến gác Thiên Công, Tư Nam bị kẻ bí ẩn áp giải về căn cứ Tú Kim Lâu. Liệu hắn có bị cấy độc trùng Mộng Khôi biến thành rối cuồng sát chống lại chị gái Yến Cự Tử?
+- **Kế hoạch nằm vùng của Dì Hàng (Lạc Thần):** Dì Hàng sau khi dùng bí thuật dịch dung thế chỗ Thiên Dạ đã tiến sâu vào đầu não Tú Kim Lâu. Liệu nàng có bị lộ tẩy trước Đường Ai Đế Lý Tộ hay sẽ thành công giải trừ độc trùng Mộng Khôi?
+- **Số phận của Tư Nam (Chim Cắt):** Sau khi bị áp giải về Tú Kim Lâu, số phận của Chim Cắt sẽ ra sao trước sự thâm nhập của dì Hàng?
+- **Bàn cờ thế sự của Mặc Môn nhập thế:** Nhánh Mặc Môn do Bằng Trưởng Lão dẫn dắt mang vũ khí cơ quan ra ngoài sẽ can dự thế nào vào cuộc chiến Tống - Nam Đường và Bắc phạt Khiết Đan?
 - **Số phận của Điền Anh:** Giả thuyết Điền Anh dùng bí thuật dịch dung giả chết tại Phật Quang Cốc để thay đổi thân phận tiếp tục sự nghiệp thu hồi Yên Vân ở phương Bắc.
