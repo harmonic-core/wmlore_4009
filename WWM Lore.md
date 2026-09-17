@@ -446,21 +446,27 @@ Tú Kim Lâu cứu Thiếu chủ                 Lấy danh xưng Lạc Thần, 
 Cải tạo cơ thể ──► Thiên Dạ              Tâm linh cảm ứng: "Trái tim của em trai"
 ```
 
-#### 1. Hiệp Tích Khai Phong: Thu Thập 《Công Tử Thư》
-- Tại Khai Phong, Thiếu Đông Gia tiếp nhận chuỗi nhiệm vụ hiệp tích độc đáo thông qua thư tín của **Nam Chúc Công Tử** (tức Hậu chủ Nam Đường Lý Dục). Thu thập 10 tàn trang rải rác khắp các góc khuất của Biện Kinh và không gian ảo ảnh "Đại Tự Tại Thiên", mở khóa hồ sơ mật về thân thế của những nhân vật chủ chốt.
-- Thử thách ảo ảnh BOSS 《Công Tử Thư》 có thể biến hóa thành nhiều hình dạng đại diện cho những nỗi đau của Khai Phong (Đạo Chủ, Dung Viên, Trịnh Ngạt, Hà Bá...). Vượt qua thử thách, Thiếu Đông Gia bàng hoàng khai mở bí mật đen tối nhất về quá khứ của người nuôi nấng mình: **Dì Hàng (Hàn Hương Tầm - Lạc Thần)**.
+#### 1. Hiệp Tích Khai Phong: Thu Thập 《Công Tử Thư》 (The Book of the Ember East)
+- Tại Khai Phong, khi độ khám phá đạt mức cao, Thiếu Đông Gia tiếp nhận chuỗi nhiệm vụ hiệp tích tối mật mang tên **《Công Tử Thư》 (The Book of the Ember East)** thông qua thư tín gửi từ **Nam Chúc Công Tử** (tức Hậu chủ Nam Đường Lý Dục). Người chơi phải đi thu thập **10 tàn trang thư tịch** rải rác khắp các góc khuất Biện Kinh, giải mã các bàn cờ thế trận bóng đổ và bước vào không gian ảo ảnh tâm ma **"Đại Tự Tại Thiên"**.
+- Thử thách ảo ảnh BOSS 《Công Tử Thư》 có thể biến hóa thành nhiều hình dạng đại diện cho những nỗi đau của Khai Phong (Đạo Chủ, Dung Viên, Trịnh Ngạt, Hà Bá...). Vượt qua thử thách, Thiếu Đông Gia bàng hoàng khai mở hồ sơ mật về thân thế thật sự của người nuôi nấng mình: **Dì Hàng (Hàn Hương Tầm - Lạc Thần)** cùng mối quan hệ rợn người với ma đầu **Thiên Dạ**.
 
-#### 2. Thảm Án Lương Phủ & Sự Hy Sinh Của Người Em Trai
-- Cha của Hàn Hương Tầm vốn là một du hiệp giang hồ trượng nghĩa, nhưng rơi vào một ván cược mờ ám đầy cạm bẫy chính trị mà vong mạng, mẹ nàng uất ức tự vẫn theo. Thuở nhỏ ngây thơ, Hàn Hương Tầm từng ôm mối hận lầm tưởng cha cờ bạc bán vợ con.
-- Mồ côi cha mẹ, hai chị em Hương Tầm được **Lương Phủ** danh gia vọng tộc nhận nuôi. Nhưng ẩn sau vỏ bọc từ thiện là tội ác ghê rợn: Lương Phủ chỉ coi hai chị em như **"dược dẫn" (thuốc dẫn sống)** để tìm cách chữa trị căn bệnh tim hiểm nghèo bẩm sinh cho Lương gia Thiếu chủ.
-- Phát hiện âm mưu tàn độc, hai chị em liều mạng đào tẩu khỏi Lương Phủ trong đêm mưa. Trước làn sóng truy binh bủa vây, **người em trai nhỏ đã kiên quyết đẩy chị gái qua khe hẹp, một mình đứng lại chặn cửa để chị trốn thoát**.
-- Thoát khỏi tử địa, Hàn Hương Tầm nuốt nước mắt khổ luyện võ công, tiếp cận các bí thuật giang hồ và thuật dịch dung (sau này nổi danh với biệt hiệu **Lạc Thần**). Khi đủ thực lực quay về Lương Phủ để cứu em, cảnh tượng trước mắt khiến nàng phát cuồng: **Trái tim của người em trai ruột đã bị mổ sống, ghép thẳng vào lồng ngực của Lương gia Thiếu chủ!**
-- Trong cơn phẫn nộ cùng cực, Hàn Hương Tầm đã một mình vung kiếm **huyết tẩy toàn bộ Lương Phủ**, tắm máu cả trang viên trả thù cho em trai.
+#### 2. Thảm Án Lương Phủ, Nguồn Gốc Danh Xưng "Hàn Gia Tỷ Tỷ" & Sự Hy Sinh Của Người Em Trai
+- **Bi kịch gia đình & Bước chân vào Lương Phủ:** Cha của Hàn Hương Tầm vốn là một du hiệp giang hồ trượng nghĩa, nhưng rơi vào một ván cược mờ ám đầy cạm bẫy chính trị mà vong mạng, mẹ nàng uất ức tự vẫn theo. Hai chị em mồ côi lưu lạc đầu đường xó chợ, sau đó được danh gia vọng tộc **Lương Phủ** nhận về nuôi nấng trong phủ.
+- **Thân phận "người ở" & Danh xưng "Hàn gia tỷ tỷ":**
+  - Tại Lương Phủ, hai chị em họ Hàn trên danh nghĩa là gia nhân, người hầu cận phục dịch đứa con cưng của Lương gia (chính là thể xác nguyên bản của **Thiên Dạ** sau này). 
+  - Đứa trẻ Lương gia từ thuở nhỏ ốm yếu bệnh tật bẩm sinh, hàng ngày nhìn thấy Hàn Hương Tầm tảo tần chăm sóc, yêu thương và bảo bọc em trai nhỏ. Đứa trẻ ấy luôn mở miệng gọi Hương Tầm bằng danh xưng ngọt ngào, thân mật: **"Hàn gia tỷ tỷ" (韩家姐姐 - Chị gái họ Hàn)**.
+  - Nhưng ẩn sau lớp vỏ bọc gia đình êm ấm và tiếng gọi "Hàn gia tỷ tỷ" đầy vẻ kính trọng đó là một âm mưu rùng rợn đến lạnh gáy: Lương Phủ nuôi hai chị em chỉ để biến họ thành **"dược dẫn sống" (vật chứa nội tạng sống)** nhằm tìm ngày mổ lấy tim thay thế cho đứa con bệnh tim hiểm nghèo của họ!
+- **Đêm mưa trốn chạy & Sự hy sinh của người em:**
+  - Tình cờ phát hiện bí mật rợn người, hai chị em liều mạng đào tẩu khỏi Lương Phủ trong một đêm mưa bão tầm tã. Trước làn sóng gia đinh và cao thủ truy sát bủa vây, **người em trai nhỏ đã kiên quyết đẩy chị gái qua khe hẹp chân tường, rồi một mình đóng sập then cài, đứng lại chặn cửa để chị trốn thoát**.
+  - Thoát khỏi tử địa, Hàn Hương Tầm nuốt nước mắt khổ luyện võ công, tiếp cận các bí thuật giang hồ và thuật dịch dung (sau này nổi danh với biệt hiệu **Lạc Thần**). 
+  - Khi đủ thực lực quay về Lương Phủ để cứu em, cảnh tượng trước mắt khiến nàng phát cuồng: **Trái tim của người em trai ruột đã bị mổ sống, ghép thẳng vào lồng ngực của đứa trẻ Lương gia kia!**
+  - Trong cơn phẫn nộ cùng cực, Hàn Hương Tầm đã một mình vung kiếm **huyết tẩy toàn bộ Lương Phủ**, tắm máu cả trang viên trả thù cho em trai.
 
-#### 3. Mối Ràng Buộc Kỳ Dị Giữa Dì Hàng & Ma Đầu Thiên Dạ
-- Lương gia Thiếu chủ thoi thóp trong đống xác chết được thế lực **Tú Kim Lâu** cứu mang đi. Bằng tà thuật cấy ghép nội tạng và độc trùng Mộng Khôi của Đường Ai Đế Lý Tộ, thân xác hắn được chắp vá, cải tạo để trở thành vũ khí giết người tối thượng: **Thiên Dạ (千夜)**.
-- Vì **trái tim đang đập trong lồng ngực Thiên Dạ chính là trái tim của em trai ruột dì Hàng**, nên giữa hai người tồn tại một sự liên kết thần kinh - cảm ứng tâm linh méo mó (*"cảm đồng thân thụ"*). Trái tim ấy luôn đập loạn nhịp, co thắt đau đớn mỗi khi Thiên Dạ đối diện với dì Hàng. 
-- Điều này tạo nên một mối chấp niệm bệnh hoạn trong tâm trí Thiên Dạ: Hắn vừa căm thù dì Hàng vì đã hủy diệt Lương Phủ, vừa khao khát chiếm đoạt, thao túng và bám riết lấy nàng như một sợi dây níu giữ phần nhân tính còn sót lại.
+#### 3. Nguồn Gốc Thiên Dạ & Ám Ảnh Tiếng Gọi "Hàn Gia Tỷ Tỷ"
+- Đứa trẻ Lương gia thoi thóp trong đống xác chết được thế lực **Tú Kim Lâu** cứu mang đi. Bằng tà thuật cấy ghép nội tạng và độc trùng Mộng Khôi của Đường Ai Đế Lý Tộ, thân xác nó được chắp vá, cải tạo để trở thành sát thủ tối thượng: **Thiên Dạ (千夜)**.
+- **Sợi dây liên kết tâm linh & Danh xưng ma mị:**
+  - Vì **trái tim đang đập trong lồng ngực Thiên Dạ chính là trái tim của em trai ruột dì Hàng**, nên giữa hai người tồn tại một sự liên kết thần kinh - cảm ứng tâm linh méo mó (*"cảm đồng thân thụ"*). Trái tim ấy luôn đập loạn nhịp, co thắt đau đớn mỗi khi Thiên Dạ đối diện với dì Hàng.
+  - Ký ức tuổi thơ trong phủ cùng nhịp đập từ quả tim em trai khiến Thiên Dạ luôn bị ám ảnh bởi dì Hàng. Cứ mỗi khi xuất hiện hoặc truy sát dì Hàng, Thiên Dạ luôn cất lên tiếng gọi ma quái rợn người: **"Hàn gia tỷ tỷ..."**. Tiếng gọi này vừa là sự mỉa mai tàn độc gợi nhắc về thân phận tôi tớ năm xưa, vừa là sự đắc thắng khi nhắc nhở dì Hàng rằng quả tim của người em trai nay thuộc về ả, nhưng sâu thẳm bên trong lại là tiếng gọi vô thức phát ra từ chính quả tim của người em trai đang đập trong lồng ngực kẻ thù!
 - **Mắt xích quyết định tại Bất Kiến Sơn:** Bí mật này chính là lời giải thích trọn vẹn nhất cho hành động của dì Hàng ở cuối Chương 4: Khi Thiên Dạ trọng thương ngã xuống giữa tro tàn Thành Phi Thiên, dì Hàng không chỉ đơn thuần muốn kết liễu ả, mà đã dùng thuật dịch dung hoán đổi thân phận để bước vào cơ thể đang chứa đựng **trái tim của người em trai ruột thịt** mà nàng tìm kiếm suốt cả cuộc đời!
 
 ---
@@ -832,7 +838,7 @@ Bão tuyết phong sơn ──► Bằng Trưởng Lão cưỡng ép khởi đ�
   - Đó chính là nhịp đập từ **quả tim của người em trai ruột thịt** năm xưa – đứa bé đã kiên quyết đẩy chị qua khe tường hẹp trong đêm mưa Lương Phủ, một mình đứng lại chặn cửa chịu cảnh mổ tim sống để chị được sống sót!
   - Hai hàng nước mắt nóng hổi lăn dài trên gò má người phụ nữ kiên cường nhất Thần Tiên Độ, nhỏ từng giọt xuống gương mặt đẫm máu của Thiên Dạ. Dì Hàng run run thì thầm, giọng nghẹn ứ nơi cổ họng:
     > *"Em ngoan... Đã chịu khổ nhiều rồi... Suốt hai mươi năm qua, chị tìm em khắp chân trời góc bể... Chị rốt cuộc cũng tìm thấy em rồi..."*
-  - Thiên Dạ trợn tròn mắt nhìn dì Hàng. Trong khoảnh khắc thần thức sắp tiêu biến, sự tàn bạo trong mắt ả bỗng tan chảy hoàn toàn. Ả nhìn người phụ nữ đang khóc vì mình, cảm nhận luồng hơi ấm từ bàn tay dì Hàng truyền qua lồng ngực. Quả tim em trai trong lồng ngực đập dồn dập như đứa trẻ tìm lại được mẹ sau bao năm lưu lạc. Khóe miệng dính máu của ả khẽ mấp máy một tiếng gọi mơ hồ: *"Tỷ... tỷ..."* rồi trút hơi thở cuối cùng, mi mắt khép lại thanh thản.
+  - Thiên Dạ trợn tròn mắt nhìn dì Hàng. Trong khoảnh khắc thần thức sắp tiêu biến, sự tàn bạo trong mắt ả bỗng tan chảy hoàn toàn. Ả nhìn người phụ nữ đang khóc vì mình, cảm nhận luồng hơi ấm từ bàn tay dì Hàng truyền qua lồng ngực. Quả tim em trai trong lồng ngực đập dồn dập như đứa trẻ tìm lại được mẹ sau bao năm lưu lạc. Khóe miệng dính máu của ả khẽ run rẩy, mấp máy tiếng gọi ngắt quãng quen thuộc từ thuở hàn vi trong Lương Phủ: *"Hàn... Hàn gia tỷ tỷ... Tỷ tỷ..."* rồi trút hơi thở cuối cùng, mi mắt khép lại thanh thản.
 
 - **Quyết định kinh thiên & Màn thi triển thuật dịch dung:**
   - Từ xa, tiếng còi hiệu đặc trưng của Tú Kim Lâu đã vang lên dồn dập trong rừng tuyết – viện binh do Đường Ai Đế phái đến đang rầm rộ kéo tới thu dọn chiến trường.
