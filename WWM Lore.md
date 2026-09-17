@@ -717,7 +717,7 @@ Bão tuyết phong sơn ──► Cơ quan Hộ Sơn sụp đổ ──► Bằn
 - Thiếu Đông Gia bước vào trận quyết đấu sinh tử đỉnh cao giữa biển lửa tàn tích. Bằng kiếm pháp tôi luyện qua bao biến cố và sự thức tỉnh của bản ngã Hòa Âm, nhân vật phá giải toàn bộ ảo mộng ma quái của Thiên Dạ, tung đòn quyết định đánh gục nữ ma đầu.
 
 #### 4. Màn Dịch Dung Của Dì Hàng & Tương Lai Phân Liệt Của Mặc Môn
-- **Dì Hàng (Lạc Thần) ra tay:** Ngay sau khi Thiên Dạ trọng thương ngã xuống, **dì Hàng** bất ngờ xuất hiện từ trong bóng tối. Với bí thuật dịch dung tuyệt thế, dì Hàng đã kịp thời hoán đổi thân phận, cải trang thành chính Thiên Dạ để thâm nhập sâu vào nội bộ cấp cao của Tú Kim Lâu, quyết tâm tìm ra thuốc giải Mộng Khôi và thanh toán mối huyết thù Thần Tiên Độ năm xưa.
+- **Dì Hàng (Lạc Thần) ra tay:** Ngay sau khi Thiên Dạ trọng thương ngã xuống, **dì Hàng** bất ngờ xuất hiện từ trong bóng tối. Với bí thuật dịch dung tuyệt thế, dì Hàng đã kịp thời hoán đổi thân phận, cải trang thành chính Thiên Dạ. Hành động này không chỉ giúp dì thâm nhập sâu vào nội bộ cấp cao Tú Kim Lâu để truy tìm thuốc giải Mộng Khôi, mà sâu thẳm trong tim, nàng muốn ở bên bảo bọc thân xác đang mang **quả tim của người em trai ruột thịt** mà nàng ôm ân hận suốt cuộc đời.
 - **Mặc Môn Phân Liệt Hai Ngả Đường:**
   - *Nhánh Yến Cự Tử:* Ở lại Bất Kiến Sơn đổ nát, cùng Tiểu Lôi và các đệ tử lương thiện tái thiết sơn môn trên đống tro tàn, dùng cơ quan thuật chế tạo nông cụ, cày cấy dẫn nước giúp đỡ lưu dân, thực thi trọn vẹn tinh thần *"Kiêm Ái, Phi Công – Khoa học vị nhân sinh"*.
   - *Nhánh Bằng Trưởng Lão:* Cùng những môn đồ ôm mộng quyền lực rời khỏi núi sâu, mang theo vũ khí cơ quan thuật số nhập thế, dấn thân vào guồng quay tranh bá đoạt vị của các chư hầu thời Ngũ Đại Thập Quốc.
@@ -741,7 +741,7 @@ Bão tuyết phong sơn ──► Cơ quan Hộ Sơn sụp đổ ──► Bằn
 - **Thành Phi Thiên:** Cỗ máy kiến trúc khổng lồ hình chim ngự trên đỉnh núi Bất Kiến Sơn, biểu tượng cho khát vọng chinh phục bầu trời và lý tưởng "Thiên hạ đại đồng" của Mặc Môn, đã bị nổ tung và rơi rụng trong đại biến Trụy Nhật Chử Hải.
 - **Yến Cự Tử:** Chưởng môn đời mới của Mặc Sơn Đạo, thiên tài cơ quan thuật số bẩm sinh, bị liệt hai chân sau thảm họa Đêm Sao Rơi, người quyết định phá hủy Đại Diễn Mê Trận để mở toang sơn môn đón nhận thế giới.
 - **Kiếm khách Tư Nam (Chim Cắt):** Em trai của Yến Cự Tử, sống sót sau vụ nổ với thân thể tàn tạ, hóa thân thành thủ lĩnh Thầy Khốn Kỳ để cướp đoạt Vàng Đen trước khi bị Tú Kim Lâu bắt giữ.
-- **Thiên Dạ (千夜 / Tầm Tâm):** Nữ thủ lĩnh tàn độc của Tú Kim Lâu, mang thân thế đại tiểu thư họ Đoàn bị biến thành "song tử dược dẫn", cơ thể cấy ghép Mộng Khôi dẫn đến phân liệt hai linh hồn (Thiên Dạ Song Hồn).
+- **Thiên Dạ (千夜 / Tầm Tâm):** Đại sát thủ tàn độc của Tú Kim Lâu; thân xác được cải tạo bằng tà thuật chắp vá Mộng Khôi (phân liệt song hồn), và đặc biệt trong lồng ngực mang chính **quả tim của em trai ruột dì Hàng** (nguồn gốc từ thảm án Lương Phủ), tạo nên sợi dây liên kết tâm linh co thắt đau đớn với dì Hàng.
 - **Trụy Nhật Chử Hải (坠日煮海):** Biến cố bùng nổ năng lượng Ô Kim tại tàn thể Thành Phi Thiên, dẫn đến việc Yến Cự Tử cho nổ tung vách núi, xóa bỏ Đại Diễn Mê Trận và mở toang Bất Kiến Sơn trước giang hồ.
 
 ---
